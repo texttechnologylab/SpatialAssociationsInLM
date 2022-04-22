@@ -2,7 +2,7 @@
 This repository will contain all data, scripts and results for the paper:
 
 > Alexander Henlein, Alexander Mehler, _"What do Toothbrushes do in the Kitchen? How Transformers Think our World is Structured"._ NAACL 2022.
-[__preprint__](https://arxiv.org/pdf/2112.01838.pdf)
+[__preprint__](https://arxiv.org/abs/2204.05673)
 
 # BibTeX
 ```
