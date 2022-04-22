@@ -1,0 +1,349 @@
+troomt"object"t"subset"t"dataset_prob"tscore
+0treadtbooktreadt0.08187853454634866t99
+1t"wash with"tbooktreadt0.0t0
+2tplaytbooktreadt0.002403846153846154t0
+3t"eat"tbooktreadt0.0t0
+4tweartbooktreadt0.0t0
+5t"listen to"tbooktreadt0.008586147681740127t0
+6treadtlabeltreadt0.055569215638062455t99
+7t"wash with"tlabeltreadt0.0t0
+8tplaytlabeltreadt0.0t0
+9t"eat"tlabeltreadt0.0t0
+10tweartlabeltreadt0.0t0
+11t"listen to"tlabeltreadt0.0t0
+12treadt"instruction"treadt0.0469633636587165t99
+13t"wash with"t"instruction"treadt0.0t0
+14tplayt"instruction"treadt0.0t0
+15t"eat"t"instruction"treadt0.00019127773527161438t0
+16tweart"instruction"treadt0.0t0
+17t"listen to"t"instruction"treadt0.005151688609044075t0
+18treadtreviewtreadt0.03614457831325301t99
+19t"wash with"treviewtreadt0.0t0
+20tplaytreviewtreadt0.0t0
+21t"eat"treviewtreadt0.0t0
+22tweartreviewtreadt0.0t0
+23t"listen to"treviewtreadt0.0t0
+24treadtbody languagetreadt0.01917875583968527t0
+25t"wash with"tbody languagetreadt0.0t0
+26tplaytbody languagetreadt0.0t0
+27t"eat"tbody languagetreadt0.0t0
+28tweartbody languagetreadt0.0t0
+29t"listen to"tbody languagetreadt0.0011448196908986834t99
+30treadtruletreadt0.01696582247356774t99
+31t"wash with"truletreadt0.0t0
+32tplaytruletreadt0.0027472527472527475t0
+33t"eat"truletreadt0.0t0
+34tweartruletreadt0.0t0
+35t"listen to"truletreadt0.0017172295363480253t0
+36treadtexampletreadt0.01671994098844357t99
+37t"wash with"texampletreadt0.0t0
+38tplaytexampletreadt0.0t0
+39t"eat"texampletreadt0.0t0
+40tweartexampletreadt0.0t0
+41t"listen to"texampletreadt0.0022896393817973667t0
+42treadt"complaint"treadt0.014015244652077699t99
+43t"wash with"t"complaint"treadt0.0t0
+44tplayt"complaint"treadt0.0t0
+45t"eat"t"complaint"treadt0.0t0
+46tweart"complaint"treadt0.0t0
+47t"listen to"t"complaint"treadt0.0022896393817973667t0
+48treadtlawtreadt0.013769363166953529t99
+49t"wash with"tlawtreadt0.0t0
+50tplaytlawtreadt0.0t0
+51t"eat"tlawtreadt0.0t0
+52tweartlawtreadt0.0t0
+53t"listen to"tlawtreadt0.0011448196908986834t0
+54treadt"story"treadt0.012048192771084338t0
+55t"wash with"t"story"treadt0.0t0
+56tplayt"story"treadt0.0013736263736263737t99
+57t"eat"t"story"treadt0.0t0
+58tweart"story"treadt0.0t0
+59t"listen to"t"story"treadt0.006296508299942759t0
+60treadtsoapt"wash with"t0.0t0
+61t"wash with"tsoapt"wash with"t0.2905982905982906t99
+62tplaytsoapt"wash with"t0.0t0
+63t"eat"tsoapt"wash with"t0.0t0
+64tweartsoapt"wash with"t0.0t0
+65t"listen to"tsoapt"wash with"t0.0t0
+66treadt"water"t"wash with"t0.0t0
+67t"wash with"t"water"t"wash with"t0.2905982905982906t99
+68tplayt"water"t"wash with"t0.0020604395604395605t0
+69t"eat"t"water"t"wash with"t0.00019127773527161438t0
+70tweart"water"t"wash with"t0.0t0
+71t"listen to"t"water"t"wash with"t0.0t0
+72treadtvinegart"wash with"t0.0t0
+73t"wash with"tvinegart"wash with"t0.042735042735042736t99
+74tplaytvinegart"wash with"t0.0t0
+75t"eat"tvinegart"wash with"t0.0t0
+76tweartvinegart"wash with"t0.0t0
+77t"listen to"tvinegart"wash with"t0.0t0
+78treadt"solution"t"wash with"t0.00024588148512417015t0
+79t"wash with"t"solution"t"wash with"t0.03418803418803419t0
+80tplayt"solution"t"wash with"t0.0t0
+81t"eat"t"solution"t"wash with"t0.0t0
+82tweart"solution"t"wash with"t0.0t0
+83t"listen to"t"solution"t"wash with"t0.0t99
+84treadt"detergent"t"wash with"t0.0t0
+85t"wash with"t"detergent"t"wash with"t0.02564102564102564t99
+86tplayt"detergent"t"wash with"t0.0t0
+87t"eat"t"detergent"t"wash with"t0.0t0
+88tweart"detergent"t"wash with"t0.0t0
+89t"listen to"t"detergent"t"wash with"t0.0t0
+90treadtbaking sodat"wash with"t0.0t0
+91t"wash with"tbaking sodat"wash with"t0.02564102564102564t99
+92tplaytbaking sodat"wash with"t0.0t0
+93t"eat"tbaking sodat"wash with"t0.0t0
+94tweartbaking sodat"wash with"t0.0t0
+95t"listen to"tbaking sodat"wash with"t0.0t0
+96treadtcreamt"wash with"t0.00024588148512417015t0
+97t"wash with"tcreamt"wash with"t0.017094017094017096t99
+98tplaytcreamt"wash with"t0.0t0
+99t"eat"tcreamt"wash with"t0.00019127773527161438t0
+100tweartcreamt"wash with"t0.0t0
+101t"listen to"tcreamt"wash with"t0.0t0
+102treadtshampoot"wash with"t0.0t0
+103t"wash with"tshampoot"wash with"t0.017094017094017096t99
+104tplaytshampoot"wash with"t0.0t0
+105t"eat"tshampoot"wash with"t0.0t0
+106tweartshampoot"wash with"t0.0t0
+107t"listen to"tshampoot"wash with"t0.0t0
+108treadt"towel"t"wash with"t0.0t0
+109t"wash with"t"towel"t"wash with"t0.017094017094017096t99
+110tplayt"towel"t"wash with"t0.0t0
+111t"eat"t"towel"t"wash with"t0.0t0
+112tweart"towel"t"wash with"t0.0004870920603994155t0
+113t"listen to"t"towel"t"wash with"t0.0t0
+114treadt"cold water"t"wash with"t0.0t0
+115t"wash with"t"cold water"t"wash with"t0.017094017094017096t99
+116tplayt"cold water"t"wash with"t0.0t0
+117t"eat"t"cold water"t"wash with"t0.0t0
+118tweart"cold water"t"wash with"t0.0t0
+119t"listen to"t"cold water"t"wash with"t0.0t0
+120treadtgametplayt0.00024588148512417015t0
+121t"wash with"tgametplayt0.0t0
+122tplaytgametplayt0.2709478021978022t99
+123t"eat"tgametplayt0.00038255547054322876t0
+124tweartgametplayt0.0t0
+125t"listen to"tgametplayt0.0005724098454493417t0
+126treadtmusict"listen to"t0.0051635111876075735t0
+127t"wash with"tmusict"listen to"t0.0t0
+128tplaytmusict"listen to"t0.061469780219780217t99
+129t"eat"tmusict"listen to"t0.0t0
+130tweartmusict"listen to"t0.0t0
+131t"listen to"tmusict"listen to"t0.22323983972524328t99
+132treadt"note"tplayt0.005901155642980083t0
+133t"wash with"t"note"tplayt0.0t0
+134tplayt"note"tplayt0.03708791208791209t99
+135t"eat"t"note"tplayt0.0t0
+136tweart"note"tplayt0.0t0
+137t"listen to"t"note"tplayt0.0022896393817973667t0
+138treadt"sport"tplayt0.0t0
+139t"wash with"t"sport"tplayt0.0t0
+140tplayt"sport"tplayt0.02712912087912088t99
+141t"eat"t"sport"tplayt0.0t0
+142tweart"sport"tplayt0.0t0
+143t"listen to"t"sport"tplayt0.0t0
+144treadtchordtplayt0.0t0
+145t"wash with"tchordtplayt0.0t0
+146tplaytchordtplayt0.022321428571428572t99
+147t"eat"tchordtplayt0.0t0
+148tweartchordtplayt0.0t0
+149t"listen to"tchordtplayt0.0t0
+150treadtsongt"listen to"t0.0004917629702483403t0
+151t"wash with"tsongt"listen to"t0.0t0
+152tplaytsongt"listen to"t0.021291208791208792t99
+153t"eat"tsongt"listen to"t0.0t0
+154tweartsongt"listen to"t0.0t0
+155t"listen to"tsongt"listen to"t0.03033772180881511t99
+156treadtvideo gametplayt0.0t0
+157t"wash with"tvideo gametplayt0.0t0
+158tplaytvideo gametplayt0.020604395604395604t99
+159t"eat"tvideo gametplayt0.0t0
+160tweartvideo gametplayt0.0t0
+161t"listen to"tvideo gametplayt0.0t0
+162treadtcardtplayt0.0014752889107450208t0
+163t"wash with"tcardtplayt0.0t0
+164tplaytcardtplayt0.018200549450549452t99
+165t"eat"tcardtplayt0.0t0
+166tweartcardtplayt0.0t0
+167t"listen to"tcardtplayt0.0t0
+168treadtroletplayt0.00024588148512417015t0
+169t"wash with"troletplayt0.0t0
+170tplaytroletplayt0.017857142857142856t0
+171t"eat"troletplayt0.0t0
+172tweartroletplayt0.0t0
+173t"listen to"troletplayt0.0t99
+174treadtvideotplayt0.0t0
+175t"wash with"tvideotplayt0.0t0
+176tplaytvideotplayt0.017170329670329672t99
+177t"eat"tvideotplayt0.0t0
+178tweartvideotplayt0.0t0
+179t"listen to"tvideotplayt0.0022896393817973667t0
+180treadtfoodt"eat"t0.0t0
+181t"wash with"tfoodt"eat"t0.0t0
+182tplaytfoodt"eat"t0.0t0
+183t"eat"tfoodt"eat"t0.12968630451415455t99
+184tweartfoodt"eat"t0.0t0
+185t"listen to"tfoodt"eat"t0.0t0
+186treadt"diet"t"eat"t0.0t0
+187t"wash with"t"diet"t"eat"t0.0t0
+188tplayt"diet"t"eat"t0.0t0
+189t"eat"t"diet"t"eat"t0.0824407039020658t99
+190tweart"diet"t"eat"t0.0t0
+191t"listen to"t"diet"t"eat"t0.0t0
+192treadtmealt"eat"t0.0t0
+193t"wash with"tmealt"eat"t0.0t0
+194tplaytmealt"eat"t0.0t0
+195t"eat"tmealt"eat"t0.07364192807957154t99
+196tweartmealt"eat"t0.0t0
+197t"listen to"tmealt"eat"t0.0t0
+198treadt"breakfast"t"eat"t0.0t0
+199t"wash with"t"breakfast"t"eat"t0.0t0
+200tplayt"breakfast"t"eat"t0.0t0
+201t"eat"t"breakfast"t"eat"t0.03978576893649579t99
+202tweart"breakfast"t"eat"t0.0t0
+203t"listen to"t"breakfast"t"eat"t0.0t0
+204treadt"balanced diet"t"eat"t0.0t0
+205t"wash with"t"balanced diet"t"eat"t0.0t0
+206tplayt"balanced diet"t"eat"t0.0t0
+207t"eat"t"balanced diet"t"eat"t0.03404743687834736t99
+208tweart"balanced diet"t"eat"t0.0t0
+209t"listen to"t"balanced diet"t"eat"t0.0t0
+210treadt"fruit"t"eat"t0.0t0
+211t"wash with"t"fruit"t"eat"t0.0t0
+212tplayt"fruit"t"eat"t0.0t0
+213t"eat"t"fruit"t"eat"t0.028500382555470542t99
+214tweart"fruit"t"eat"t0.0t0
+215t"listen to"t"fruit"t"eat"t0.0t0
+216treadt"vegetable"t"eat"t0.0t0
+217t"wash with"t"vegetable"t"eat"t0.0t0
+218tplayt"vegetable"t"eat"t0.0t0
+219t"eat"t"vegetable"t"eat"t0.0279265493496557t99
+220tweart"vegetable"t"eat"t0.0t0
+221t"listen to"t"vegetable"t"eat"t0.0t0
+222treadt"plenty"t"eat"t0.00024588148512417015t0
+223t"wash with"t"plenty"t"eat"t0.0t99
+224tplayt"plenty"t"eat"t0.0006868131868131869t0
+225t"eat"t"plenty"t"eat"t0.025439938791124713t0
+226tweart"plenty"t"eat"t0.0004870920603994155t0
+227t"listen to"t"plenty"t"eat"t0.0t0
+228treadt"protein"t"eat"t0.0t0
+229t"wash with"t"protein"t"eat"t0.0t0
+230tplayt"protein"t"eat"t0.0t0
+231t"eat"t"protein"t"eat"t0.025057383320581484t99
+232tweart"protein"t"eat"t0.0t0
+233t"listen to"t"protein"t"eat"t0.0t0
+234treadtsnackt"eat"t0.0t0
+235t"wash with"tsnackt"eat"t0.0t0
+236tplaytsnackt"eat"t0.0t0
+237t"eat"tsnackt"eat"t0.02142310635042081t99
+238tweartsnackt"eat"t0.0t0
+239t"listen to"tsnackt"eat"t0.0t0
+240treadt"clothing"tweart0.0t0
+241t"wash with"t"clothing"tweart0.0t0
+242tplayt"clothing"tweart0.0t0
+243t"eat"t"clothing"tweart0.0t0
+244tweart"clothing"tweart0.07484981328137685t99
+245t"listen to"t"clothing"tweart0.0005724098454493417t0
+246treadtglovetweart0.0t0
+247t"wash with"tglovetweart0.0t0
+248tplaytglovetweart0.0t0
+249t"eat"tglovetweart0.0t0
+250tweartglovetweart0.0565026790063322t99
+251t"listen to"tglovetweart0.0t0
+252treadtshoetweart0.0t0
+253t"wash with"tshoetweart0.0t0
+254tplaytshoetweart0.0t0
+255t"eat"tshoetweart0.0t0
+256tweartshoetweart0.05471667478486767t99
+257t"listen to"tshoetweart0.0005724098454493417t0
+258treadt"clothes"tweart0.0t0
+259t"wash with"t"clothes"tweart0.0t0
+260tplayt"clothes"tweart0.00034340659340659343t0
+261t"eat"t"clothes"tweart0.0t0
+262tweart"clothes"tweart0.04643610975807761t99
+263t"listen to"t"clothes"tweart0.0t0
+264treadt"shirt"tweart0.00024588148512417015t0
+265t"wash with"t"shirt"tweart0.0t0
+266tplayt"shirt"tweart0.0t0
+267t"eat"t"shirt"tweart0.0t0
+268tweart"shirt"tweart0.020944958597174865t99
+269t"listen to"t"shirt"tweart0.0t0
+270treadtmakeuptweart0.0t0
+271t"wash with"tmakeuptweart0.0t0
+272tplaytmakeuptweart0.0t0
+273t"eat"tmakeuptweart0.0t0
+274tweartmakeuptweart0.020295502516642312t99
+275t"listen to"tmakeuptweart0.0t0
+276treadtgeartweart0.0t0
+277t"wash with"tgeartweart0.0t0
+278tplaytgeartweart0.0t99
+279t"eat"tgeartweart0.0t0
+280tweartgeartweart0.01948368241597662t0
+281t"listen to"tgeartweart0.0t0
+282treadt"boot"tweart0.0t0
+283t"wash with"t"boot"tweart0.0t0
+284tplayt"boot"tweart0.0t0
+285t"eat"t"boot"tweart0.0t0
+286tweart"boot"tweart0.01932131839584348t99
+287t"listen to"t"boot"tweart0.0t0
+288treadtdresstweart0.0t0
+289t"wash with"tdresstweart0.0t0
+290tplaytdresstweart0.0006868131868131869t0
+291t"eat"tdresstweart0.0t0
+292tweartdresstweart0.018834226335444064t99
+293t"listen to"tdresstweart0.0t0
+294treadtsocktweart0.0t0
+295t"wash with"tsocktweart0.0t0
+296tplaytsocktweart0.0t0
+297t"eat"tsocktweart0.0t0
+298tweartsocktweart0.01818477025491151t99
+299t"listen to"tsocktweart0.0t0
+300treadtbodyt"listen to"t0.0t0
+301t"wash with"tbodyt"listen to"t0.0t0
+302tplaytbodyt"listen to"t0.0t0
+303t"eat"tbodyt"listen to"t0.0t0
+304tweartbodyt"listen to"t0.0t0
+305t"listen to"tbodyt"listen to"t0.029765311963365768t99
+306treadtsidet"listen to"t0.0t0
+307t"wash with"tsidet"listen to"t0.0t0
+308tplaytsidet"listen to"t0.00034340659340659343t0
+309t"eat"tsidet"listen to"t0.00019127773527161438t0
+310tweartsidet"listen to"t0.0001623640201331385t0
+311t"listen to"tsidet"listen to"t0.021751574127074985t99
+312treadt"partner"t"listen to"t0.0004917629702483403t0
+313t"wash with"t"partner"t"listen to"t0.0t0
+314tplayt"partner"t"listen to"t0.0t99
+315t"eat"t"partner"t"listen to"t0.0t0
+316tweart"partner"t"listen to"t0.0t0
+317t"listen to"t"partner"t"listen to"t0.018317115054378934t0
+318treadtchildt"listen to"t0.0007376444553725104t0
+319t"wash with"tchildt"listen to"t0.0t0
+320tplaytchildt"listen to"t0.0006868131868131869t0
+321t"eat"tchildt"listen to"t0.0007651109410864575t0
+322tweartchildt"listen to"t0.0t0
+323t"listen to"tchildt"listen to"t0.017172295363480253t99
+324treadt"perspective"t"listen to"t0.0t99
+325t"wash with"t"perspective"t"listen to"t0.0t0
+326tplayt"perspective"t"listen to"t0.0t0
+327t"eat"t"perspective"t"listen to"t0.0t0
+328tweart"perspective"t"listen to"t0.0t0
+329t"listen to"t"perspective"t"listen to"t0.01659988551803091t0
+330treadtresponset"listen to"t0.008851733464470126t99
+331t"wash with"tresponset"listen to"t0.0t0
+332tplaytresponset"listen to"t0.0t0
+333t"eat"tresponset"listen to"t0.0t0
+334tweartresponset"listen to"t0.0t0
+335t"listen to"tresponset"listen to"t0.01659988551803091t0
+336treadt"parent"t"listen to"t0.0004917629702483403t0
+337t"wash with"t"parent"t"listen to"t0.0t0
+338tplayt"parent"t"listen to"t0.00034340659340659343t0
+339t"eat"t"parent"t"listen to"t0.0t0
+340tweart"parent"t"listen to"t0.0t0
+341t"listen to"t"parent"t"listen to"t0.01602747567258157t99
+342treadtpeoplet"listen to"t0.0012294074256208507t0
+343t"wash with"tpeoplet"listen to"t0.0t0
+344tplaytpeoplet"listen to"t0.0t0
+345t"eat"tpeoplet"listen to"t0.0t0
+346tweartpeoplet"listen to"t0.0t0
+347t"listen to"tpeoplet"listen to"t0.015455065827132226t99

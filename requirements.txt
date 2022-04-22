@@ -1,0 +1,14 @@
+transformers
+sentence-transformers
+torch
+sklearn
+matplotlib
+pandas
+numpy
+seaborn
+scipy
+gensim
+dcor
+scikit-learn
+requests
+beautifulsoup4

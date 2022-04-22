@@ -1,0 +1,361 @@
+troomt"object"t"subset"t"dataset_prob"tscore
+0treadtbooktreadt0.08187853454634866t0.6055599
+1treadtlabeltreadt0.055569215638062455t0.3001018
+2treadt"instruction"treadt0.0469633636587165t0.39814234
+3treadtreviewtreadt0.03614457831325301t0.5464573
+4treadtbody languagetreadt0.01917875583968527t0.3283959
+5treadtruletreadt0.01696582247356774t0.24090466
+6treadtexampletreadt0.01671994098844357t0.36371607
+7treadt"complaint"treadt0.014015244652077699t0.35567892
+8treadtlawtreadt0.013769363166953529t0.16081417
+9treadt"story"treadt0.012048192771084338t0.47556305
+10treadtsoapt"wash with"t0.0t0.19842546
+11treadt"water"t"wash with"t0.0t0.21963124
+12treadtvinegart"wash with"t0.0t0.15112409
+13treadt"solution"t"wash with"t0.00024588148512417015t0.25665638
+14treadt"detergent"t"wash with"t0.0t0.16193925
+15treadtbaking sodat"wash with"t0.0t0.22544588
+16treadtcreamt"wash with"t0.00024588148512417015t0.17683493
+17treadtshampoot"wash with"t0.0t0.18368518
+18treadt"towel"t"wash with"t0.0t0.19295034
+19treadt"cold water"t"wash with"t0.0t0.22503313
+20treadtgametplayt0.00024588148512417015t0.29612
+21treadtmusict"listen to"t0.0051635111876075735t0.29613274
+22treadt"note"tplayt0.005901155642980083t0.4831061
+23treadt"sport"tplayt0.0t0.21252425
+24treadtchordtplayt0.0t0.17767285
+25treadtsongt"listen to"t0.0004917629702483403t0.3311561
+26treadtvideo gametplayt0.0t0.39531738
+27treadtcardtplayt0.0014752889107450208t0.26379946
+28treadtroletplayt0.00024588148512417015t0.16603592
+29treadtvideotplayt0.0t0.39289773
+30treadtfoodt"eat"t0.0t0.25882873
+31treadt"diet"t"eat"t0.0t0.21065837
+32treadtmealt"eat"t0.0t0.3146851
+33treadt"breakfast"t"eat"t0.0t0.30098647
+34treadt"balanced diet"t"eat"t0.0t0.27090257
+35treadt"fruit"t"eat"t0.0t0.19524029
+36treadt"vegetable"t"eat"t0.0t0.17441091
+37treadt"plenty"t"eat"t0.00024588148512417015t0.37544233
+38treadt"protein"t"eat"t0.0t0.16408542
+39treadtsnackt"eat"t0.0t0.30182365
+40treadt"clothing"tweart0.0t0.23917788
+41treadtglovetweart0.0t0.17311388
+42treadtshoetweart0.0t0.20093362
+43treadt"clothes"tweart0.0t0.23374408
+44treadt"shirt"tweart0.00024588148512417015t0.21292618
+45treadtmakeuptweart0.0t0.13781522
+46treadtgeartweart0.0t0.23686744
+47treadt"boot"tweart0.0t0.29622254
+48treadtdresstweart0.0t0.25465846
+49treadtsocktweart0.0t0.23778808
+50treadtmusict"listen to"t0.0051635111876075735t0.29613274
+51treadtsongt"listen to"t0.0004917629702483403t0.3311561
+52treadtbodyt"listen to"t0.0t0.25287446
+53treadtsidet"listen to"t0.0t0.22318995
+54treadt"partner"t"listen to"t0.0004917629702483403t0.2558355
+55treadtchildt"listen to"t0.0007376444553725104t0.3129097
+56treadt"perspective"t"listen to"t0.0t0.2871795
+57treadtresponset"listen to"t0.008851733464470126t0.38377178
+58treadt"parent"t"listen to"t0.0004917629702483403t0.29735956
+59treadtpeoplet"listen to"t0.0012294074256208507t0.36956447
+60t"wash with"tbooktreadt0.0t0.32619783
+61t"wash with"tlabeltreadt0.0t0.4166161
+62t"wash with"t"instruction"treadt0.0t0.3671661
+63t"wash with"treviewtreadt0.0t0.31370175
+64t"wash with"tbody languagetreadt0.0t0.4951581
+65t"wash with"truletreadt0.0t0.34233508
+66t"wash with"texampletreadt0.0t0.3126551
+67t"wash with"t"complaint"treadt0.0t0.31464994
+68t"wash with"tlawtreadt0.0t0.29891697
+69t"wash with"t"story"treadt0.0t0.3102248
+70t"wash with"tsoapt"wash with"t0.2905982905982906t0.51287043
+71t"wash with"t"water"t"wash with"t0.2905982905982906t0.54180247
+72t"wash with"tvinegart"wash with"t0.042735042735042736t0.45481092
+73t"wash with"t"solution"t"wash with"t0.03418803418803419t0.39634496
+74t"wash with"t"detergent"t"wash with"t0.02564102564102564t0.49053267
+75t"wash with"tbaking sodat"wash with"t0.02564102564102564t0.43050086
+76t"wash with"tcreamt"wash with"t0.017094017094017096t0.40791008
+77t"wash with"tshampoot"wash with"t0.017094017094017096t0.47012234
+78t"wash with"t"towel"t"wash with"t0.017094017094017096t0.5044966
+79t"wash with"t"cold water"t"wash with"t0.017094017094017096t0.56170785
+80t"wash with"tgametplayt0.0t0.3559228
+81t"wash with"tmusict"listen to"t0.0t0.37536058
+82t"wash with"t"note"tplayt0.0t0.31771284
+83t"wash with"t"sport"tplayt0.0t0.31894737
+84t"wash with"tchordtplayt0.0t0.27433383
+85t"wash with"tsongt"listen to"t0.0t0.33608198
+86t"wash with"tvideo gametplayt0.0t0.37477028
+87t"wash with"tcardtplayt0.0t0.34115416
+88t"wash with"troletplayt0.0t0.31785688
+89t"wash with"tvideotplayt0.0t0.28896514
+90t"wash with"tfoodt"eat"t0.0t0.44013882
+91t"wash with"t"diet"t"eat"t0.0t0.32322827
+92t"wash with"tmealt"eat"t0.0t0.45121574
+93t"wash with"t"breakfast"t"eat"t0.0t0.39691672
+94t"wash with"t"balanced diet"t"eat"t0.0t0.40326336
+95t"wash with"t"fruit"t"eat"t0.0t0.4182273
+96t"wash with"t"vegetable"t"eat"t0.0t0.3876945
+97t"wash with"t"plenty"t"eat"t0.0t0.4283194
+98t"wash with"t"protein"t"eat"t0.0t0.31363186
+99t"wash with"tsnackt"eat"t0.0t0.3896716
+100t"wash with"t"clothing"tweart0.0t0.4761178
+101t"wash with"tglovetweart0.0t0.38855404
+102t"wash with"tshoetweart0.0t0.35641107
+103t"wash with"t"clothes"tweart0.0t0.54507184
+104t"wash with"t"shirt"tweart0.0t0.4027164
+105t"wash with"tmakeuptweart0.0t0.4153061
+106t"wash with"tgeartweart0.0t0.369959
+107t"wash with"t"boot"tweart0.0t0.44539723
+108t"wash with"tdresstweart0.0t0.44490817
+109t"wash with"tsocktweart0.0t0.39317793
+110t"wash with"tmusict"listen to"t0.0t0.37536058
+111t"wash with"tsongt"listen to"t0.0t0.33608198
+112t"wash with"tbodyt"listen to"t0.0t0.4499989
+113t"wash with"tsidet"listen to"t0.0t0.47392297
+114t"wash with"t"partner"t"listen to"t0.0t0.3518894
+115t"wash with"tchildt"listen to"t0.0t0.38909507
+116t"wash with"t"perspective"t"listen to"t0.0t0.30613998
+117t"wash with"tresponset"listen to"t0.0t0.32483083
+118t"wash with"t"parent"t"listen to"t0.0t0.34396356
+119t"wash with"tpeoplet"listen to"t0.0t0.40634787
+120tplaytbooktreadt0.002403846153846154t0.38078898
+121tplaytlabeltreadt0.0t0.26068804
+122tplayt"instruction"treadt0.0t0.34733874
+123tplaytreviewtreadt0.0t0.3797828
+124tplaytbody languagetreadt0.0t0.40112376
+125tplaytruletreadt0.0027472527472527475t0.33412504
+126tplaytexampletreadt0.0t0.28536344
+127tplayt"complaint"treadt0.0t0.29638696
+128tplaytlawtreadt0.0t0.20331691
+129tplayt"story"treadt0.0013736263736263737t0.3783864
+130tplaytsoapt"wash with"t0.0t0.31996816
+131tplayt"water"t"wash with"t0.0020604395604395605t0.31610492
+132tplaytvinegart"wash with"t0.0t0.20187631
+133tplayt"solution"t"wash with"t0.0t0.33008987
+134tplayt"detergent"t"wash with"t0.0t0.2508994
+135tplaytbaking sodat"wash with"t0.0t0.32007104
+136tplaytcreamt"wash with"t0.0t0.25212213
+137tplaytshampoot"wash with"t0.0t0.2443129
+138tplayt"towel"t"wash with"t0.0t0.25573683
+139tplayt"cold water"t"wash with"t0.0t0.33031118
+140tplaytgametplayt0.2709478021978022t0.6875466
+141tplaytmusict"listen to"t0.061469780219780217t0.50918037
+142tplayt"note"tplayt0.03708791208791209t0.29634008
+143tplayt"sport"tplayt0.02712912087912088t0.45844862
+144tplaytchordtplayt0.022321428571428572t0.3141209
+145tplaytsongt"listen to"t0.021291208791208792t0.4546497
+146tplaytvideo gametplayt0.020604395604395604t0.6385409
+147tplaytcardtplayt0.018200549450549452t0.3974037
+148tplaytroletplayt0.017857142857142856t0.5686887
+149tplaytvideotplayt0.017170329670329672t0.40225342
+150tplaytfoodt"eat"t0.0t0.33303785
+151tplayt"diet"t"eat"t0.0t0.27292663
+152tplaytmealt"eat"t0.0t0.39119986
+153tplayt"breakfast"t"eat"t0.0t0.33475378
+154tplayt"balanced diet"t"eat"t0.0t0.3667938
+155tplayt"fruit"t"eat"t0.0t0.28020802
+156tplayt"vegetable"t"eat"t0.0t0.29481545
+157tplayt"plenty"t"eat"t0.0006868131868131869t0.3881465
+158tplayt"protein"t"eat"t0.0t0.28215998
+159tplaytsnackt"eat"t0.0t0.42781094
+160tplayt"clothing"tweart0.0t0.30764693
+161tplaytglovetweart0.0t0.3442413
+162tplaytshoetweart0.0t0.28992528
+163tplayt"clothes"tweart0.00034340659340659343t0.33582926
+164tplayt"shirt"tweart0.0t0.2727763
+165tplaytmakeuptweart0.0t0.3334162
+166tplaytgeartweart0.0t0.3602937
+167tplayt"boot"tweart0.0t0.4114277
+168tplaytdresstweart0.0006868131868131869t0.42214864
+169tplaytsocktweart0.0t0.32094836
+170tplaytmusict"listen to"t0.061469780219780217t0.50918037
+171tplaytsongt"listen to"t0.021291208791208792t0.4546497
+172tplaytbodyt"listen to"t0.0t0.3336347
+173tplaytsidet"listen to"t0.00034340659340659343t0.37489134
+174tplayt"partner"t"listen to"t0.0t0.40074408
+175tplaytchildt"listen to"t0.0006868131868131869t0.42779276
+176tplayt"perspective"t"listen to"t0.0t0.25331008
+177tplaytresponset"listen to"t0.0t0.31705257
+178tplayt"parent"t"listen to"t0.00034340659340659343t0.33607757
+179tplaytpeoplet"listen to"t0.0t0.37192306
+180t"eat"tbooktreadt0.0t0.32915613
+181t"eat"tlabeltreadt0.0t0.25578555
+182t"eat"t"instruction"treadt0.00019127773527161438t0.28406858
+183t"eat"treviewtreadt0.0t0.26618508
+184t"eat"tbody languagetreadt0.0t0.3926094
+185t"eat"truletreadt0.0t0.2918659
+186t"eat"texampletreadt0.0t0.18540122
+187t"eat"t"complaint"treadt0.0t0.24984081
+188t"eat"tlawtreadt0.0t0.19755626
+189t"eat"t"story"treadt0.0t0.25858036
+190t"eat"tsoapt"wash with"t0.0t0.31125787
+191t"eat"t"water"t"wash with"t0.00019127773527161438t0.4189706
+192t"eat"tvinegart"wash with"t0.0t0.30757308
+193t"eat"t"solution"t"wash with"t0.0t0.2533985
+194t"eat"t"detergent"t"wash with"t0.0t0.24725291
+195t"eat"tbaking sodat"wash with"t0.0t0.43023196
+196t"eat"tcreamt"wash with"t0.00019127773527161438t0.33080208
+197t"eat"tshampoot"wash with"t0.0t0.27550724
+198t"eat"t"towel"t"wash with"t0.0t0.2868375
+199t"eat"t"cold water"t"wash with"t0.0t0.43655327
+200t"eat"tgametplayt0.00038255547054322876t0.3239255
+201t"eat"tmusict"listen to"t0.0t0.32486683
+202t"eat"t"note"tplayt0.0t0.20167243
+203t"eat"t"sport"tplayt0.0t0.2837675
+204t"eat"tchordtplayt0.0t0.14046155
+205t"eat"tsongt"listen to"t0.0t0.2756661
+206t"eat"tvideo gametplayt0.0t0.30434203
+207t"eat"tcardtplayt0.0t0.22175287
+208t"eat"troletplayt0.0t0.18957
+209t"eat"tvideotplayt0.0t0.19591343
+210t"eat"tfoodt"eat"t0.12968630451415455t0.62945074
+211t"eat"t"diet"t"eat"t0.0824407039020658t0.51978046
+212t"eat"tmealt"eat"t0.07364192807957154t0.6026176
+213t"eat"t"breakfast"t"eat"t0.03978576893649579t0.54853415
+214t"eat"t"balanced diet"t"eat"t0.03404743687834736t0.52872235
+215t"eat"t"fruit"t"eat"t0.028500382555470542t0.48660314
+216t"eat"t"vegetable"t"eat"t0.0279265493496557t0.4063978
+217t"eat"t"plenty"t"eat"t0.025439938791124713t0.43409145
+218t"eat"t"protein"t"eat"t0.025057383320581484t0.42307904
+219t"eat"tsnackt"eat"t0.02142310635042081t0.5956494
+220t"eat"t"clothing"tweart0.0t0.38157877
+221t"eat"tglovetweart0.0t0.19291675
+222t"eat"tshoetweart0.0t0.26178235
+223t"eat"t"clothes"tweart0.0t0.43162674
+224t"eat"t"shirt"tweart0.0t0.27461073
+225t"eat"tmakeuptweart0.0t0.28815073
+226t"eat"tgeartweart0.0t0.3030761
+227t"eat"t"boot"tweart0.0t0.3354637
+228t"eat"tdresstweart0.0t0.42231047
+229t"eat"tsocktweart0.0t0.2530292
+230t"eat"tmusict"listen to"t0.0t0.32486683
+231t"eat"tsongt"listen to"t0.0t0.2756661
+232t"eat"tbodyt"listen to"t0.0t0.37535658
+233t"eat"tsidet"listen to"t0.00019127773527161438t0.26780716
+234t"eat"t"partner"t"listen to"t0.0t0.2758631
+235t"eat"tchildt"listen to"t0.0007651109410864575t0.3813621
+236t"eat"t"perspective"t"listen to"t0.0t0.21284977
+237t"eat"tresponset"listen to"t0.0t0.21748908
+238t"eat"t"parent"t"listen to"t0.0t0.28374094
+239t"eat"tpeoplet"listen to"t0.0t0.4142011
+240tweartbooktreadt0.0t0.27770168
+241tweartlabeltreadt0.0t0.3436499
+242tweart"instruction"treadt0.0t0.27696016
+243tweartreviewtreadt0.0t0.25587302
+244tweartbody languagetreadt0.0t0.35574028
+245tweartruletreadt0.0t0.36965856
+246tweartexampletreadt0.0t0.21348721
+247tweart"complaint"treadt0.0t0.2513588
+248tweartlawtreadt0.0t0.20970775
+249tweart"story"treadt0.0t0.20336793
+250tweartsoapt"wash with"t0.0t0.2753671
+251tweart"water"t"wash with"t0.0t0.30222806
+252tweartvinegart"wash with"t0.0t0.24857211
+253tweart"solution"t"wash with"t0.0t0.27522248
+254tweart"detergent"t"wash with"t0.0t0.3202075
+255tweartbaking sodat"wash with"t0.0t0.2759319
+256tweartcreamt"wash with"t0.0t0.32594702
+257tweartshampoot"wash with"t0.0t0.266139
+258tweart"towel"t"wash with"t0.0004870920603994155t0.33939216
+259tweart"cold water"t"wash with"t0.0t0.38449275
+260tweartgametplayt0.0t0.29862654
+261tweartmusict"listen to"t0.0t0.28603053
+262tweart"note"tplayt0.0t0.23120835
+263tweart"sport"tplayt0.0t0.35474277
+264tweartchordtplayt0.0t0.17225832
+265tweartsongt"listen to"t0.0t0.28298056
+266tweartvideo gametplayt0.0t0.29787508
+267tweartcardtplayt0.0t0.25938144
+268tweartroletplayt0.0t0.2543752
+269tweartvideotplayt0.0t0.21220346
+270tweartfoodt"eat"t0.0t0.3173907
+271tweart"diet"t"eat"t0.0t0.2642902
+272tweartmealt"eat"t0.0t0.32367733
+273tweart"breakfast"t"eat"t0.0t0.31915185
+274tweart"balanced diet"t"eat"t0.0t0.31483868
+275tweart"fruit"t"eat"t0.0t0.29311436
+276tweart"vegetable"t"eat"t0.0t0.23600583
+277tweart"plenty"t"eat"t0.0004870920603994155t0.30865362
+278tweart"protein"t"eat"t0.0t0.21425137
+279tweartsnackt"eat"t0.0t0.33299953
+280tweart"clothing"tweart0.07484981328137685t0.56526566
+281tweartglovetweart0.0565026790063322t0.4145579
+282tweartshoetweart0.05471667478486767t0.42392114
+283tweart"clothes"tweart0.04643610975807761t0.59009236
+284tweart"shirt"tweart0.020944958597174865t0.5317666
+285tweartmakeuptweart0.020295502516642312t0.44985935
+286tweartgeartweart0.01948368241597662t0.48079735
+287tweart"boot"tweart0.01932131839584348t0.43268082
+288tweartdresstweart0.018834226335444064t0.63431686
+289tweartsocktweart0.01818477025491151t0.37603226
+290tweartmusict"listen to"t0.0t0.28603053
+291tweartsongt"listen to"t0.0t0.28298056
+292tweartbodyt"listen to"t0.0t0.3623732
+293tweartsidet"listen to"t0.0001623640201331385t0.27487418
+294tweart"partner"t"listen to"t0.0t0.2812446
+295tweartchildt"listen to"t0.0t0.33728427
+296tweart"perspective"t"listen to"t0.0t0.20860194
+297tweartresponset"listen to"t0.0t0.22701624
+298tweart"parent"t"listen to"t0.0t0.25599518
+299tweartpeoplet"listen to"t0.0t0.3373904
+300t"listen to"tbooktreadt0.008586147681740127t0.36883044
+301t"listen to"tlabeltreadt0.0t0.33226132
+302t"listen to"t"instruction"treadt0.005151688609044075t0.37425315
+303t"listen to"treviewtreadt0.0t0.39806005
+304t"listen to"tbody languagetreadt0.0011448196908986834t0.39174178
+305t"listen to"truletreadt0.0017172295363480253t0.3233975
+306t"listen to"texampletreadt0.0022896393817973667t0.33862507
+307t"listen to"t"complaint"treadt0.0022896393817973667t0.3028444
+308t"listen to"tlawtreadt0.0011448196908986834t0.22756256
+309t"listen to"t"story"treadt0.006296508299942759t0.3571241
+310t"listen to"tsoapt"wash with"t0.0t0.18319377
+311t"listen to"t"water"t"wash with"t0.0t0.30060673
+312t"listen to"tvinegart"wash with"t0.0t0.17301275
+313t"listen to"t"solution"t"wash with"t0.0t0.36206222
+314t"listen to"t"detergent"t"wash with"t0.0t0.17183167
+315t"listen to"tbaking sodat"wash with"t0.0t0.2281939
+316t"listen to"tcreamt"wash with"t0.0t0.2047942
+317t"listen to"tshampoot"wash with"t0.0t0.18180458
+318t"listen to"t"towel"t"wash with"t0.0t0.23876783
+319t"listen to"t"cold water"t"wash with"t0.0t0.3205328
+320t"listen to"tgametplayt0.0005724098454493417t0.34863648
+321t"listen to"tmusict"listen to"t0.22323983972524328t0.38504067
+322t"listen to"t"note"tplayt0.0022896393817973667t0.39390522
+323t"listen to"t"sport"tplayt0.0t0.27688614
+324t"listen to"tchordtplayt0.0t0.2471641
+325t"listen to"tsongt"listen to"t0.03033772180881511t0.35371011
+326t"listen to"tvideo gametplayt0.0t0.41216713
+327t"listen to"tcardtplayt0.0t0.26245686
+328t"listen to"troletplayt0.0t0.30062318
+329t"listen to"tvideotplayt0.0022896393817973667t0.36533678
+330t"listen to"tfoodt"eat"t0.0t0.29644686
+331t"listen to"t"diet"t"eat"t0.0t0.26654905
+332t"listen to"tmealt"eat"t0.0t0.30373585
+333t"listen to"t"breakfast"t"eat"t0.0t0.25650308
+334t"listen to"t"balanced diet"t"eat"t0.0t0.32541737
+335t"listen to"t"fruit"t"eat"t0.0t0.22623307
+336t"listen to"t"vegetable"t"eat"t0.0t0.19352023
+337t"listen to"t"plenty"t"eat"t0.0t0.41507182
+338t"listen to"t"protein"t"eat"t0.0t0.18101151
+339t"listen to"tsnackt"eat"t0.0t0.3032997
+340t"listen to"t"clothing"tweart0.0005724098454493417t0.25002202
+341t"listen to"tglovetweart0.0t0.20025907
+342t"listen to"tshoetweart0.0005724098454493417t0.24085747
+343t"listen to"t"clothes"tweart0.0t0.28642333
+344t"listen to"t"shirt"tweart0.0t0.20227586
+345t"listen to"tmakeuptweart0.0t0.21670899
+346t"listen to"tgeartweart0.0t0.31374493
+347t"listen to"t"boot"tweart0.0t0.34768513
+348t"listen to"tdresstweart0.0t0.3326896
+349t"listen to"tsocktweart0.0t0.22631422
+350t"listen to"tmusict"listen to"t0.22323983972524328t0.38504067
+351t"listen to"tsongt"listen to"t0.03033772180881511t0.35371011
+352t"listen to"tbodyt"listen to"t0.029765311963365768t0.34689185
+353t"listen to"tsidet"listen to"t0.021751574127074985t0.36242568
+354t"listen to"t"partner"t"listen to"t0.018317115054378934t0.35680664
+355t"listen to"tchildt"listen to"t0.017172295363480253t0.35313088
+356t"listen to"t"perspective"t"listen to"t0.01659988551803091t0.3600188
+357t"listen to"tresponset"listen to"t0.01659988551803091t0.3869367
+358t"listen to"t"parent"t"listen to"t0.01602747567258157t0.35306635
+359t"listen to"tpeoplet"listen to"t0.015455065827132226t0.48021793

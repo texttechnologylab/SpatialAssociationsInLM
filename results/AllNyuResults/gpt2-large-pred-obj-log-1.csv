@@ -1,0 +1,251 @@
+troomt"object"t"subset"t"dataset_prob"tscore
+0t"kitchen"tdrying rackt"kitchen"t1.0t-0.5408960148967791
+1t"kitchen"t"kitchen island"t"kitchen"t1.0t0.7116274061072078
+2t"kitchen"t"pot"t"kitchen"t1.0t0.11577239198132402
+3t"kitchen"tfrying pant"kitchen"t1.0t0.0010743285333502499
+4t"kitchen"tspice rackt"kitchen"t1.0t-0.5408960148967791
+5t"kitchen"t"cutting board"t"kitchen"t1.0t-0.8526496920121185
+6t"kitchen"tblendert"kitchen"t1.0t0.09457405929106037
+7t"kitchen"tknifet"kitchen"t1.0t-0.20122078910900507
+8t"kitchen"t"stove"t"kitchen"t0.9766051468676891t0.19003300900539657
+9t"kitchen"tdishwashert"kitchen"t0.9721206864506535t0.006918182860367178
+10t"kitchen"t"whiteboard"tofficet0.0t-0.7176522453956974
+11t"kitchen"troom dividertofficet0.0t0.01101003367894314
+12t"kitchen"t"stapler"tofficet0.0t-0.2890334150437029
+13t"kitchen"tcork boardtofficet0.024479882394298682t-0.8526496920121185
+14t"kitchen"tfiletofficet0.0912845931433292t-0.9620460087931793
+15t"kitchen"tkeyboardtofficet0.019666327869793263t-1.7458596971464466
+16t"kitchen"tmousetofficet0.026522170247560203t-1.2571187332074898
+17t"kitchen"tpentofficet0.0412766938358877t-0.8625000009238002
+18t"kitchen"t"computer"tofficet0.056766217518101805t-1.7969155091536737
+19t"kitchen"tcolumntofficet0.07977690747761207t-0.45465286124646537
+20t"kitchen"t"toilet"t"bathroom"t0.0t-0.9166161760116162
+21t"kitchen"t"bathtub"t"bathroom"t0.0t0.42456840885520136
+22t"kitchen"t"toothbrush holder"t"bathroom"t0.0t-0.40581583352987316
+23t"kitchen"t"toothpaste"t"bathroom"t0.0t-0.07599873497521496
+24t"kitchen"t"shower curtain"t"bathroom"t0.0t-1.3828201731365506
+25t"kitchen"t"toothbrush"t"bathroom"t0.030663963507349214t-0.7389193084520606
+26t"kitchen"t"towel rod"t"bathroom"t0.027304267031878347t-0.7195574651472312
+27t"kitchen"t"toilet paper"t"bathroom"t0.0t-0.6901754335306519
+28t"kitchen"t"squeeze tube"t"bathroom"t0.0t-1.033806521466539
+29t"kitchen"t"faucet handle"t"bathroom"t0.17702999268471106t-0.7379961316078232
+30t"kitchen"t"coffee table"tliving roomt0.0t-0.9064111140276034
+31t"kitchen"t"ottoman"tliving roomt0.0t-0.4048748722942767
+32t"kitchen"tfireplacetliving roomt0.1342648845686513t-1.1881829755051134
+33t"kitchen"tdvd playertliving roomt0.04868406976115512t-0.864236622218759
+34t"kitchen"tsofatliving roomt0.039480674636633475t-1.600597798820077
+35t"kitchen"t"decorative plate"tliving roomt0.1785405910392969t-0.423344111740768
+36t"kitchen"t"tv stand"tliving roomt0.16777834380258994t-0.1596717524755774
+37t"kitchen"t"blanket"tliving roomt0.026864670211678734t-1.2027196488847778
+38t"kitchen"t"television"tliving roomt0.19413843800244499t-1.5683099310841788
+39t"kitchen"t"remote control"tliving roomt0.13243276226783515t-0.2626875184452805
+40t"kitchen"tdressertbedroomt0.0t0.11463731275510843
+41t"kitchen"t"night stand"tbedroomt0.0t-0.1596717524755774
+42t"kitchen"theadboardtbedroomt0.0t-0.7176522453956974
+43t"kitchen"tbedtbedroomt0.005347090400559883t-1.0640075799881519
+44t"kitchen"talarm clocktbedroomt0.02851187374376535t-1.4872777019528904
+45t"kitchen"t"laundry basket"tbedroomt0.0t-0.19628647344491565
+46t"kitchen"t"hat"tbedroomt0.0t-0.6518519795674348
+47t"kitchen"tdolltbedroomt0.0884731112100821t-0.7707947161556441
+48t"kitchen"t"stuffed animal"tbedroomt0.0t-0.2578675413738564
+49t"kitchen"tpillowtbedroomt0.004364856815055107t-1.4231136813205976
+50tofficetdrying rackt"kitchen"t0.0t-0.4697708163099893
+51tofficet"kitchen island"t"kitchen"t0.0t0.001538855619777297
+52tofficet"pot"t"kitchen"t0.0t-0.6304688066590632
+53tofficetfrying pant"kitchen"t0.0t-0.47887605966574404
+54tofficetspice rackt"kitchen"t0.0t-0.4697708163099893
+55tofficet"cutting board"t"kitchen"t0.0t0.09745973545118362
+56tofficetblendert"kitchen"t0.0t-0.4344921698787445
+57tofficetknifet"kitchen"t0.0t-0.7532155138421156
+58tofficet"stove"t"kitchen"t0.0t-0.8859813571621459
+59tofficetdishwashert"kitchen"t0.0t-0.1712692252241365
+60tofficet"whiteboard"tofficet1.0t-0.222053502142659
+61tofficetroom dividertofficet0.9387445054388558t0.14021816589131006
+62tofficet"stapler"tofficet0.9221073502336778t-0.20858977503662313
+63tofficetcork boardtofficet0.9179955897862005t0.09745973545118362
+64tofficetfiletofficet0.8777364725320115t0.25896374061358257
+65tofficetkeyboardtofficet0.8509468789814393t-0.46129450238700814
+66tofficetmousetofficet0.8415688636245064t-0.22559693982313345
+67tofficetpentofficet0.8334717024554248t-0.01921123122546736
+68tofficet"computer"tofficet0.8187435218956991t-0.18215182523984078
+69tofficetcolumntofficet0.8054399312643525t0.1480349307425745
+70tofficet"toilet"t"bathroom"t0.0t-0.7010621516566157
+71tofficet"bathtub"t"bathroom"t0.0t-0.3449072261988891
+72tofficet"toothbrush holder"t"bathroom"t0.0t-0.06942606682481738
+73tofficet"toothpaste"t"bathroom"t0.0t-0.03376043310983608
+74tofficet"shower curtain"t"bathroom"t0.0t-0.39215272010127933
+75tofficet"toothbrush"t"bathroom"t0.0t-0.2257978061312034
+76tofficet"towel rod"t"bathroom"t0.0t-0.5402247609442835
+77tofficet"toilet paper"t"bathroom"t0.0t0.2724296312997469
+78tofficet"squeeze tube"t"bathroom"t0.0t-0.37739144369473143
+79tofficet"faucet handle"t"bathroom"t0.0t-0.47724127547091116
+80tofficet"coffee table"tliving roomt0.06319702602230483t-0.5926227609852219
+81tofficet"ottoman"tliving roomt0.0t0.13073184105870753
+82tofficetfireplacetliving roomt0.0t-1.0052773465197904
+83tofficetdvd playertliving roomt0.0t-0.329483169105589
+84tofficetsofatliving roomt0.20246499813658192t-0.7175827670391978
+85tofficet"decorative plate"tliving roomt0.0t-0.54344165135365
+86tofficet"tv stand"tliving roomt0.0t-0.2516079260078499
+87tofficet"blanket"tliving roomt0.0t-0.6673372467565315
+88tofficet"television"tliving roomt0.0t-1.0049122900769867
+89tofficet"remote control"tliving roomt0.0t-0.1267260401803233
+90tofficetdressertbedroomt0.0t-0.12083512031943544
+91tofficet"night stand"tbedroomt0.0t-0.2516079260078499
+92tofficetheadboardtbedroomt0.0t-0.222053502142659
+93tofficetbedtbedroomt0.015424299232384277t-0.925217485432563
+94tofficetalarm clocktbedroomt0.0t-0.5439106055844897
+95tofficet"laundry basket"tbedroomt0.0t-0.48894777821898067
+96tofficet"hat"tbedroomt0.0t-0.4383766964397645
+97tofficetdolltbedroomt0.12760544886069533t-0.5613971886639575
+98tofficet"stuffed animal"tbedroomt0.2502951049979691t-0.3530256173458509
+99tofficetpillowtbedroomt0.012590933120351271t-0.5452774794166534
+100t"bathroom"tdrying rackt"kitchen"t0.0t-0.6836694323748469
+101t"bathroom"t"kitchen island"t"kitchen"t0.0t0.35474480331357006
+102t"bathroom"t"pot"t"kitchen"t0.0t-0.21223748634277737
+103t"bathroom"tfrying pant"kitchen"t0.0t-0.30563036376496844
+104t"bathroom"tspice rackt"kitchen"t0.0t-0.6836694323748469
+105t"bathroom"t"cutting board"t"kitchen"t0.0t-0.8496989512621865
+106t"bathroom"tblendert"kitchen"t0.0t-0.3497717176519222
+107t"bathroom"tknifet"kitchen"t0.0t-0.5005236957231424
+108t"bathroom"t"stove"t"kitchen"t0.0t-0.6937498277875731
+109t"bathroom"tdishwashert"kitchen"t0.0t-0.2458954050089129
+110t"bathroom"t"whiteboard"tofficet0.0t-0.7980468861465473
+111t"bathroom"troom dividertofficet0.04654931431928211t-0.11728648159724377
+112t"bathroom"t"stapler"tofficet0.0t0.06274360007244431
+113t"bathroom"tcork boardtofficet0.0t-0.8496989512621865
+114t"bathroom"tfiletofficet0.0t-0.908577880799947
+115t"bathroom"tkeyboardtofficet0.0t-1.5521335301362056
+116t"bathroom"tmousetofficet0.0t-1.2567226331711643
+117t"bathroom"tpentofficet0.07675418275268374t-0.45294427969475387
+118t"bathroom"t"computer"tofficet0.0t-1.7602153354273622
+119t"bathroom"tcolumntofficet0.07417274455563105t-0.6031736102747571
+120t"bathroom"t"toilet"t"bathroom"t1.0t0.601073314847338
+121t"bathroom"t"bathtub"t"bathroom"t1.0t0.6292341795051326
+122t"bathroom"t"toothbrush holder"t"bathroom"t1.0t-0.6458373925937999
+123t"bathroom"t"toothpaste"t"bathroom"t1.0t-0.09989899439321373
+124t"bathroom"t"shower curtain"t"bathroom"t1.0t-0.530530579504541
+125t"bathroom"t"toothbrush"t"bathroom"t0.9693360364926508t-0.3906634567585236
+126t"bathroom"t"towel rod"t"bathroom"t0.9646755500932226t-0.3166710322984434
+127t"bathroom"t"toilet paper"t"bathroom"t0.9620094191522763t-0.30448039841882946
+128t"bathroom"t"squeeze tube"t"bathroom"t0.9499793303017776t-0.23340123501313592
+129t"bathroom"t"faucet handle"t"bathroom"t0.822970007315289t-0.6621053818363707
+130t"bathroom"t"coffee table"tliving roomt0.0t-1.5104503111490932
+131t"bathroom"t"ottoman"tliving roomt0.0t-0.1495268207350381
+132t"bathroom"tfireplacetliving roomt0.0t-1.4565329267306613
+133t"bathroom"tdvd playertliving roomt0.0t-1.030121871305323
+134t"bathroom"tsofatliving roomt0.0t-1.7681780116607675
+135t"bathroom"t"decorative plate"tliving roomt0.11066565560286996t-1.0154337183833109
+136t"bathroom"t"tv stand"tliving roomt0.0t-0.3465395164102413
+137t"bathroom"t"blanket"tliving roomt0.0t-0.9940821253979321
+138t"bathroom"t"television"tliving roomt0.0t-1.7916226523888863
+139t"bathroom"t"remote control"tliving roomt0.0t-0.20443551446306757
+140t"bathroom"tdressertbedroomt0.0t-0.06404335374937688
+141t"bathroom"t"night stand"tbedroomt0.0t-0.3465395164102413
+142t"bathroom"theadboardtbedroomt0.0t-0.7980468861465473
+143t"bathroom"tbedtbedroomt0.0t-0.7376012994354259
+144t"bathroom"talarm clocktbedroomt0.0t-1.524517326253991
+145t"bathroom"t"laundry basket"tbedroomt0.14280387770320657t-0.5099308990698592
+146t"bathroom"t"hat"tbedroomt0.12349286848125497t-0.6630513508536546
+147t"bathroom"tdolltbedroomt0.08225805794325815t-0.8043900288613315
+148t"bathroom"t"stuffed animal"tbedroomt0.04033681444182147t-0.034998516819169205
+149t"bathroom"tpillowtbedroomt0.0t-0.8230303962909349
+150tliving roomtdrying rackt"kitchen"t0.0t-0.054138271614066424
+151tliving roomt"kitchen island"t"kitchen"t0.0t0.7168720677105431
+152tliving roomt"pot"t"kitchen"t0.0t-0.19505092326108034
+153tliving roomtfrying pant"kitchen"t0.0t-0.2033183403751204
+154tliving roomtspice rackt"kitchen"t0.0t-0.054138271614066424
+155tliving roomt"cutting board"t"kitchen"t0.0t-0.19446201720007134
+156tliving roomtblendert"kitchen"t0.0t0.06276912979853516
+157tliving roomtknifet"kitchen"t0.0t-0.6615471572090874
+158tliving roomt"stove"t"kitchen"t0.02339485313231089t-0.12543318195114506
+159tliving roomtdishwashert"kitchen"t0.027879313549346387t-0.4618351124355684
+160tliving roomt"whiteboard"tofficet0.0t-0.4381678119739455
+161tliving roomtroom dividertofficet0.0t-0.2066325339022733
+162tliving roomt"stapler"tofficet0.036161072558183446t-0.10975163152543095
+163tliving roomtcork boardtofficet0.0t-0.19446201720007134
+164tliving roomtfiletofficet0.030978934324659233t-0.7201123749224788
+165tliving roomtkeyboardtofficet0.06006683851633689t-0.5854082459459777
+166tliving roomtmousetofficet0.054004419056118066t-0.5152761115552461
+167tliving roomtpentofficet0.0t-0.6012614223375743
+168tliving roomt"computer"tofficet0.05779366036910817t-0.3079928618747139
+169tliving roomtcolumntofficet0.04061041670240433t-0.2680402422859898
+170tliving roomt"toilet"t"bathroom"t0.0t-0.8913062681385057
+171tliving roomt"bathtub"t"bathroom"t0.0t-0.014661334742497725
+172tliving roomt"toothbrush holder"t"bathroom"t0.0t-0.8195886569872187
+173tliving roomt"toothpaste"t"bathroom"t0.0t-1.0395597544965696
+174tliving roomt"shower curtain"t"bathroom"t0.0t-0.6565990196795471
+175tliving roomt"toothbrush"t"bathroom"t0.0t-0.5517235363400418
+176tliving roomt"towel rod"t"bathroom"t0.0t-0.5117261963572555
+177tliving roomt"toilet paper"t"bathroom"t0.0t-0.3944362482284003
+178tliving roomt"squeeze tube"t"bathroom"t0.0t-0.5791856729205898
+179tliving roomt"faucet handle"t"bathroom"t0.0t-0.7992497514655976
+180tliving roomt"coffee table"tliving roomt0.9368029739776951t0.07348095715748289
+181tliving roomt"ottoman"tliving roomt0.930004222972973t-0.7413849510757262
+182tliving roomtfireplacetliving roomt0.8657351154313487t0.054201123390626944
+183tliving roomtdvd playertliving roomt0.6939132115277766t-0.6722241765258562
+184tliving roomtsofatliving roomt0.683319368710964t0.29110205340685125
+185tliving roomt"decorative plate"tliving roomt0.6059069831650347t-0.2212458454414539
+186tliving roomt"tv stand"tliving roomt0.5693835196920473t-0.008052796742471101
+187tliving roomt"blanket"tliving roomt0.547018171731015t0.07844096742958362
+188tliving roomt"television"tliving roomt0.5270726823595792t0.4219518806987901
+189tliving roomt"remote control"tliving roomt0.5007961598363514t-0.3954259471687681
+190tliving roomtdressertbedroomt0.0t-0.151050302597573
+191tliving roomt"night stand"tbedroomt0.0t-0.008052796742471101
+192tliving roomtheadboardtbedroomt0.0t-0.4381678119739455
+193tliving roomtbedtbedroomt0.005443870317312098t-0.022945524786812957
+194tliving roomtalarm clocktbedroomt0.0t-0.8259296396121099
+195tliving roomt"laundry basket"tbedroomt0.0t0.12069264594033201
+196tliving roomt"hat"tbedroomt0.1352274849432747t-0.42366067712505046
+197tliving roomtdolltbedroomt0.0t-0.05845977473294811
+198tliving roomt"stuffed animal"tbedroomt0.11042431102851578t-0.08355483552002087
+199tliving roomtpillowtbedroomt0.42661043984249014t-0.48890264444785436
+200tbedroomtdrying rackt"kitchen"t0.0t-0.4885671655019087
+201tbedroomt"kitchen island"t"kitchen"t0.0t0.3691797728435116
+202tbedroomt"pot"t"kitchen"t0.0t-0.6950131565473423
+203tbedroomtfrying pant"kitchen"t0.0t-0.4492435380658626
+204tbedroomtspice rackt"kitchen"t0.0t-0.4885671655019087
+205tbedroomt"cutting board"t"kitchen"t0.0t-0.6987679262192873
+206tbedroomtblendert"kitchen"t0.0t-0.6484664930950718
+207tbedroomtknifet"kitchen"t0.0t-0.2867160927503353
+208tbedroomt"stove"t"kitchen"t0.0t-0.327734568135694
+209tbedroomtdishwashert"kitchen"t0.0t-0.1116083869486248
+210tbedroomt"whiteboard"tofficet0.0t-0.6165519592419865
+211tbedroomtroom dividertofficet0.014706180241861972t-0.054804488522525174
+212tbedroomt"stapler"tofficet0.041731577208138596t0.07437172247567289
+213tbedroomtcork boardtofficet0.05752452781950082t-0.6987679262192873
+214tbedroomtfiletofficet0.0t-0.7567010583904283
+215tbedroomtkeyboardtofficet0.06931995463243056t-0.8289596034846332
+216tbedroomtmousetofficet0.07790454707181521t-0.6620286748452968
+217tbedroomtpentofficet0.048497420956003824t-0.10518149913306762
+218tbedroomt"computer"tofficet0.06669660021709088t-0.9376452463861387
+219tbedroomtcolumntofficet0.0t-0.623013331324019
+220tbedroomt"toilet"t"bathroom"t0.0t0.24519354090979614
+221tbedroomt"bathtub"t"bathroom"t0.0t0.7255472904782917
+222tbedroomt"toothbrush holder"t"bathroom"t0.0t-0.6490158860659597
+223tbedroomt"toothpaste"t"bathroom"t0.0t-0.42468066753267336
+224tbedroomt"shower curtain"t"bathroom"t0.0t-0.18864785102100343
+225tbedroomt"toothbrush"t"bathroom"t0.0t-0.05169113216406431
+226tbedroomt"towel rod"t"bathroom"t0.008020182874898992t-0.5253058189903542
+227tbedroomt"toilet paper"t"bathroom"t0.03799058084772371t-0.419099227193356
+228tbedroomt"squeeze tube"t"bathroom"t0.05002066969822241t-0.3776031885838936
+229tbedroomt"faucet handle"t"bathroom"t0.0t-0.7555227879922615
+230tbedroomt"coffee table"tliving roomt0.0t-0.8583012785765365
+231tbedroomt"ottoman"tliving roomt0.06999577702702701t-0.09710348257420032
+232tbedroomtfireplacetliving roomt0.0t-0.5774169612135815
+233tbedroomtdvd playertliving roomt0.2574027187110682t-0.9381513744064381
+234tbedroomtsofatliving roomt0.07473495851582056t0.02405284400583627
+235tbedroomt"decorative plate"tliving roomt0.10488677019279842t-0.8959727443623181
+236tbedroomt"tv stand"tliving roomt0.2628381365053628t-0.45250330767349356
+237tbedroomt"blanket"tliving roomt0.4261171580573063t-0.008702615112079804
+238tbedroomt"television"tliving roomt0.27878887963797583t-0.7918287806303052
+239tbedroomt"remote control"tliving roomt0.3667710778958135t-0.3456085074278228
+240tbedroomtdressertbedroomt1.0t0.0898660401130801
+241tbedroomt"night stand"tbedroomt1.0t-0.45250330767349356
+242tbedroomtheadboardtbedroomt1.0t-0.6165519592419865
+243tbedroomtbedtbedroomt0.9737847400497438t0.7442598986238537
+244tbedroomtalarm clocktbedroomt0.9714881262562346t-1.282234279604577
+245tbedroomt"laundry basket"tbedroomt0.8571961222967934t-0.4191416456693013
+246tbedroomt"hat"tbedroomt0.7412796465754704t-0.4955311091558537
+247tbedroomtdolltbedroomt0.7016633819859645t0.17361094554233183
+248tbedroomt"stuffed animal"tbedroomt0.5989437695316937t-0.05346995373033401
+249tbedroomtpillowtbedroomt0.5564337702221035t0.4353398931334465

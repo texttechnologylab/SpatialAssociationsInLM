@@ -1,0 +1,559 @@
+troomt"object"t"subset"t"dataset_prob"tscore
+0tbedtpillowtbedt1.0t0.5046998299981111
+1tbedt"bolster"tbedt1.0t0.09926155837971132
+2tbedt"mattress cover"tbedt1.0t0.3697654418382426
+3tbedtlegtbedt1.0t0.20921254680607562
+4tbedtbox springtbedt1.0t0.06557006917522114
+5tbedtheadboardtbedt1.0t0.4261038455982844
+6tbedt"mattress"tbedt1.0t0.5554199491105457
+7tbedt"pillow protector"tbedt1.0t0.3389877665307392
+8tbedt"elastic"tbedt1.0t0.06874010475006484
+9tbedt"footboard"tbedt1.0t0.3399406660074001
+10tbedt"switch"t"refrigerator"t0.0t0.11308415794443984
+11tbedt"refrigerator compartment"t"refrigerator"t0.0t0.2303647818309092
+12tbedt"egg tray"t"refrigerator"t0.0t0.14802297803308925
+13tbedtshelf channelt"refrigerator"t0.0t0.10301026711522047
+14tbedt"magnetic gasket"t"refrigerator"t0.0t0.06291136568184091
+15tbedt"storage door"t"refrigerator"t0.0t0.28445249391659905
+16tbedtfreezer doort"refrigerator"t0.0t0.26037133745930513
+17tbedtguard railt"refrigerator"t0.0t0.05949221658018422
+18tbedtcrispert"refrigerator"t0.0t0.024492272136357067
+19tbedtglass covert"refrigerator"t0.0t0.13836020400226667
+20tbedt"butter compartment"t"refrigerator"t0.0t0.1768726319181324
+21tbedt"thermostat control"t"refrigerator"t0.0t0.17529350326114737
+22tbedt"freezer compartment"t"refrigerator"t0.0t0.17931379007697862
+23tbedt"ice cube tray"t"refrigerator"t0.0t0.053567712259882355
+24tbedt"meat keeper"t"refrigerator"t0.0t0.09098012200135557
+25tbedt"door stop"t"refrigerator"t0.0t0.2149028322536917
+26tbedtshelft"refrigerator"t0.0t0.1861989577661974
+27tbedt"dairy compartment"t"refrigerator"t0.0t0.12063468712260067
+28tbedtdoor shelft"refrigerator"t0.0t0.24824678588059865
+29tbedtdrain hosetdishwashert0.0t0.17529394771053008
+30tbedt"overflow protection switch"tdishwashert0.0t0.08335603728930321
+31tbedt"tub"tdishwashert0.0t0.40225246947188303
+32tbedtpumptdishwashert0.0t0.11901910021222456
+33tbedt"gasket"tdishwashert0.0t0.10680207557861753
+34tbedt"water hose"tdishwashert0.0t0.19733552595028833
+35tbedt"heating element"tdishwashert0.0t0.15467727419193547
+36tbedtracktdishwashert0.0t0.10067889643218257
+37tbedt"cutlery basket"tdishwashert0.0t0.1139919332437027
+38tbedt"wash tower"tdishwashert0.0t0.12924765830731452
+39tbedt"motor"tdishwashert0.0t0.11758619540217113
+40tbedt"detergent dispenser"tdishwashert0.0t0.09611973466371848
+41tbedtslidetdishwashert0.0t0.12377515305725618
+42tbedt"leveling foot"tdishwashert0.0t0.1776222155381977
+43tbedt"insulating material"tdishwashert0.0t0.12589763507346102
+44tbedtspray armtdishwashert0.0t0.1640084889832109
+45tbedtrinse-aid dispensertdishwashert0.0t0.04066534072600807
+46tbedtlocktdoort0.0t0.08700052222802476
+47tbedtcornicetdoort0.0t0.08134223713596818
+48tbedt"hanging stile"tdoort0.0t0.2596313292369915
+49tbedt"entablature"tdoort0.0t-0.0042760475116390174
+50tbedt"top rail"tdoort0.0t0.06280337146005789
+51tbedtmiddle paneltdoort0.0t0.13315170168557428
+52tbedt"bottom rail"tdoort0.0t0.12464184320290782
+53tbedtpaneltdoort0.0t0.059766441849353875
+54tbedtjambtdoort0.0t0.09170991807797012
+55tbedtdoorknobtdoort0.0t0.17957112629819624
+56tbedt"threshold"tdoort0.0t0.05367126301403349
+57tbedt"weatherboard"tdoort0.0t0.17890021000233336
+58tbedtlock railtdoort0.0t0.08928943654929498
+59tbedt"shutting stile"tdoort0.0t0.07979023762269502
+60tbedtheadertdoort0.0t0.013161479571995245
+61tbedtringt"mortise lock"t0.0t0.02817009077878643
+62tbedtkeywayt"mortise lock"t0.0t0.010667674085267613
+63tbedt"cotter pin"t"mortise lock"t0.0t-0.028662543879659268
+64tbedtspringt"mortise lock"t0.0t0.12135869524758075
+65tbedt"rotor"t"mortise lock"t0.0t-0.008812986810964566
+66tbedtcylinder caset"mortise lock"t0.0t0.10064422938032644
+67tbedtkeyt"mortise lock"t0.0t-0.05675486544403198
+68tbedt"faceplate"t"mortise lock"t0.0t0.018950877231969244
+69tbedt"dead bolt"t"mortise lock"t0.0t0.06695718841320458
+70tbedtcylindert"mortise lock"t0.0t0.12874987499861107
+71tbedt"stator"t"mortise lock"t0.0t0.004519605773397482
+72tbedt"strike plate"t"mortise lock"t0.0t0.047217863222687576
+73tbedt"valve seat shaft"t"toilet"t0.0t0.18542872698585539
+74tbedt"tank lid"t"toilet"t0.0t0.09469662878401745
+75tbedtconical washert"toilet"t0.0t0.07798575539728218
+76tbedt"lift chain"t"toilet"t0.0t0.08324670274114156
+77tbedt"seat"t"toilet"t0.0t0.30997677751975017
+78tbedt"shutoff valve"t"toilet"t0.0t0.0673440890836668
+79tbedt"trip lever"t"toilet"t0.0t0.11150523894709942
+80tbedtball-cock supply valvet"toilet"t0.0t0.07016412073068863
+81tbedt"toilet bowl"t"toilet"t0.0t0.2667829642551584
+82tbedtflush handlet"toilet"t0.0t0.07166568517427971
+83tbedtwax sealt"toilet"t0.0t0.05024989166546294
+84tbedt"tank ball"t"toilet"t0.0t0.10579673107478971
+85tbedt"float ball"t"toilet"t0.0t0.07303281147568305
+86tbedt"filler tube"t"toilet"t0.0t0.14558430044603923
+87tbedt"waste pipe"t"toilet"t0.0t0.11905954510605674
+88tbedt"seat cover"t"toilet"t0.0t0.2995899954443938
+89tbedt"cold-water supply line"t"toilet"t0.0t0.07228615257639764
+90tbedt"overflow tube"t"toilet"t0.0t0.06949900215546906
+91tbedt"trap"t"toilet"t0.0t0.12970346997266288
+92tbedt"refill tube"t"toilet"t0.0t0.05109790108778986
+93t"refrigerator"tpillowtbedt0.0t0.1795604595118245
+94t"refrigerator"t"bolster"tbedt0.0t0.018966437175176876
+95t"refrigerator"t"mattress cover"tbedt0.0t0.16076002630696287
+96t"refrigerator"tlegtbedt0.0t-0.012161692036766265
+97t"refrigerator"tbox springtbedt0.0t0.10033247043466494
+98t"refrigerator"theadboardtbedt0.0t0.16834744478799255
+99t"refrigerator"t"mattress"tbedt0.0t0.25406729564409714
+100t"refrigerator"t"pillow protector"tbedt0.0t0.16668675948474634
+101t"refrigerator"t"elastic"tbedt0.0t-0.048285658348572395
+102t"refrigerator"t"footboard"tbedt0.0t0.11405372438068541
+103t"refrigerator"t"switch"t"refrigerator"t1.0t0.14373074005949846
+104t"refrigerator"t"refrigerator compartment"t"refrigerator"t1.0t0.7540420175826463
+105t"refrigerator"t"egg tray"t"refrigerator"t1.0t0.32658433166861295
+106t"refrigerator"tshelf channelt"refrigerator"t1.0t0.23338753394760695
+107t"refrigerator"t"magnetic gasket"t"refrigerator"t1.0t0.1788595627573165
+108t"refrigerator"t"storage door"t"refrigerator"t1.0t0.33653244330853255
+109t"refrigerator"tfreezer doort"refrigerator"t1.0t0.6840547877259554
+110t"refrigerator"tguard railt"refrigerator"t1.0t0.09650397187790723
+111t"refrigerator"tcrispert"refrigerator"t1.0t0.375150654468458
+112t"refrigerator"tglass covert"refrigerator"t1.0t0.22181360035262754
+113t"refrigerator"t"butter compartment"t"refrigerator"t1.0t0.38499720941313026
+114t"refrigerator"t"thermostat control"t"refrigerator"t1.0t0.32754078684661
+115t"refrigerator"t"freezer compartment"t"refrigerator"t1.0t0.6355245359447407
+116t"refrigerator"t"ice cube tray"t"refrigerator"t1.0t0.39359046069188786
+117t"refrigerator"t"meat keeper"t"refrigerator"t1.0t0.19196793208457238
+118t"refrigerator"t"door stop"t"refrigerator"t1.0t0.244806969500437
+119t"refrigerator"tshelft"refrigerator"t1.0t0.40020204671186
+120t"refrigerator"t"dairy compartment"t"refrigerator"t1.0t0.3155157980679337
+121t"refrigerator"tdoor shelft"refrigerator"t1.0t0.39596759874389686
+122t"refrigerator"tdrain hosetdishwashert0.0t0.2591726862712586
+123t"refrigerator"t"overflow protection switch"tdishwashert0.0t0.12680253411732811
+124t"refrigerator"t"tub"tdishwashert0.0t0.45057816759943914
+125t"refrigerator"tpumptdishwashert0.0t0.19056969417101352
+126t"refrigerator"t"gasket"tdishwashert0.0t0.2652698658062735
+127t"refrigerator"t"water hose"tdishwashert0.0t0.2882803462572209
+128t"refrigerator"t"heating element"tdishwashert0.0t0.23618420606720283
+129t"refrigerator"tracktdishwashert0.0t0.33256328765467463
+130t"refrigerator"t"cutlery basket"tdishwashert0.0t0.3166426645454596
+131t"refrigerator"t"wash tower"tdishwashert0.0t0.16311716387039557
+132t"refrigerator"t"motor"tdishwashert0.0t0.1087696650817977
+133t"refrigerator"t"detergent dispenser"tdishwashert0.0t0.34391297057889414
+134t"refrigerator"tslidetdishwashert0.0t0.15167347989127525
+135t"refrigerator"t"leveling foot"tdishwashert0.0t0.018908214293095322
+136t"refrigerator"t"insulating material"tdishwashert0.0t0.0765784234443546
+137t"refrigerator"tspray armtdishwashert0.0t0.09735887036065687
+138t"refrigerator"trinse-aid dispensertdishwashert0.0t0.39584999787220077
+139t"refrigerator"tlocktdoort0.0t0.16475696005033047
+140t"refrigerator"tcornicetdoort0.0t0.09746020483118815
+141t"refrigerator"t"hanging stile"tdoort0.0t0.16134269951251776
+142t"refrigerator"t"entablature"tdoort0.0t-0.011098568995052124
+143t"refrigerator"t"top rail"tdoort0.0t0.11652487617081883
+144t"refrigerator"tmiddle paneltdoort0.0t0.13623886223612147
+145t"refrigerator"t"bottom rail"tdoort0.0t0.08822011093903508
+146t"refrigerator"tpaneltdoort0.0t0.12359605368904772
+147t"refrigerator"tjambtdoort0.0t0.08673964971603013
+148t"refrigerator"tdoorknobtdoort0.0t0.2758284593892064
+149t"refrigerator"t"threshold"tdoort0.0t-0.016093958387755337
+150t"refrigerator"t"weatherboard"tdoort0.0t-0.013373705638252246
+151t"refrigerator"tlock railtdoort0.0t0.08322493396870392
+152t"refrigerator"t"shutting stile"tdoort0.0t0.11590777094449041
+153t"refrigerator"theadertdoort0.0t0.0288478792928678
+154t"refrigerator"tringt"mortise lock"t0.0t0.017091080688794502
+155t"refrigerator"tkeywayt"mortise lock"t0.0t-0.01919665987362759
+156t"refrigerator"t"cotter pin"t"mortise lock"t0.0t0.12923502021911804
+157t"refrigerator"tspringt"mortise lock"t0.0t0.047683429301087626
+158t"refrigerator"t"rotor"t"mortise lock"t0.0t0.036049515666787144
+159t"refrigerator"tcylinder caset"mortise lock"t0.0t0.1319374806317279
+160t"refrigerator"tkeyt"mortise lock"t0.0t0.011198350381121097
+161t"refrigerator"t"faceplate"t"mortise lock"t0.0t0.09677975275055924
+162t"refrigerator"t"dead bolt"t"mortise lock"t0.0t0.04756786715050943
+163t"refrigerator"tcylindert"mortise lock"t0.0t0.14577163588169248
+164t"refrigerator"t"stator"t"mortise lock"t0.0t0.07798665296132816
+165t"refrigerator"t"strike plate"t"mortise lock"t0.0t0.06344716351229758
+166t"refrigerator"t"valve seat shaft"t"toilet"t0.0t0.010036334852202292
+167t"refrigerator"t"tank lid"t"toilet"t0.0t0.2436854555113257
+168t"refrigerator"tconical washert"toilet"t0.0t0.32218317116670064
+169t"refrigerator"t"lift chain"t"toilet"t0.0t0.09104057723314506
+170t"refrigerator"t"seat"t"toilet"t0.0t0.13208637119149974
+171t"refrigerator"t"shutoff valve"t"toilet"t0.0t0.19327307931712115
+172t"refrigerator"t"trip lever"t"toilet"t0.0t0.10961567457590425
+173t"refrigerator"tball-cock supply valvet"toilet"t0.0t0.16999348214835325
+174t"refrigerator"t"toilet bowl"t"toilet"t0.0t0.3817591730751668
+175t"refrigerator"tflush handlet"toilet"t0.0t0.1432671633315005
+176t"refrigerator"twax sealt"toilet"t0.0t0.22472429968380897
+177t"refrigerator"t"tank ball"t"toilet"t0.0t0.11934000592673391
+178t"refrigerator"t"float ball"t"toilet"t0.0t0.024964502379415745
+179t"refrigerator"t"filler tube"t"toilet"t0.0t0.0999311325528356
+180t"refrigerator"t"waste pipe"t"toilet"t0.0t0.1405475772561456
+181t"refrigerator"t"seat cover"t"toilet"t0.0t0.1251427377129462
+182t"refrigerator"t"cold-water supply line"t"toilet"t0.0t0.17983672479807378
+183t"refrigerator"t"overflow tube"t"toilet"t0.0t0.10875456588508003
+184t"refrigerator"t"trap"t"toilet"t0.0t0.11493664871942492
+185t"refrigerator"t"refill tube"t"toilet"t0.0t0.1584257778892862
+186tdishwashertpillowtbedt0.0t0.11886843187146523
+187tdishwashert"bolster"tbedt0.0t-0.012024134937514374
+188tdishwashert"mattress cover"tbedt0.0t0.17970155223946932
+189tdishwashertlegtbedt0.0t-0.034860387337637085
+190tdishwashertbox springtbedt0.0t0.07261481489958987
+191tdishwashertheadboardtbedt0.0t0.14387982088689874
+192tdishwashert"mattress"tbedt0.0t0.21738597095523285
+193tdishwashert"pillow protector"tbedt0.0t0.14454871720796897
+194tdishwashert"elastic"tbedt0.0t-0.038655544912226475
+195tdishwashert"footboard"tbedt0.0t0.10217002411137902
+196tdishwashert"switch"t"refrigerator"t0.0t0.1647694046344308
+197tdishwashert"refrigerator compartment"t"refrigerator"t0.0t0.5203315592395471
+198tdishwashert"egg tray"t"refrigerator"t0.0t0.2800897787753197
+199tdishwashertshelf channelt"refrigerator"t0.0t0.17788488515260115
+200tdishwashert"magnetic gasket"t"refrigerator"t0.0t0.18516605740063777
+201tdishwashert"storage door"t"refrigerator"t0.0t0.2849422771364126
+202tdishwashertfreezer doort"refrigerator"t0.0t0.5331779241991578
+203tdishwashertguard railt"refrigerator"t0.0t0.1443478260869565
+204tdishwashertcrispert"refrigerator"t0.0t0.16887565417393524
+205tdishwashertglass covert"refrigerator"t0.0t0.2753306147846087
+206tdishwashert"butter compartment"t"refrigerator"t0.0t0.21901043344926055
+207tdishwashert"thermostat control"t"refrigerator"t0.0t0.272532361470683
+208tdishwashert"freezer compartment"t"refrigerator"t0.0t0.5014725165249108
+209tdishwashert"ice cube tray"t"refrigerator"t0.0t0.2791320213704638
+210tdishwashert"meat keeper"t"refrigerator"t0.0t0.10620073556372847
+211tdishwashert"door stop"t"refrigerator"t0.0t0.22233535928176976
+212tdishwashertshelft"refrigerator"t0.0t0.30588206535628176
+213tdishwashert"dairy compartment"t"refrigerator"t0.0t0.19932890357991917
+214tdishwashertdoor shelft"refrigerator"t0.0t0.3168511113291402
+215tdishwashertdrain hosetdishwashert1.0t0.3322779141990466
+216tdishwashert"overflow protection switch"tdishwashert1.0t0.19140968232980368
+217tdishwashert"tub"tdishwashert1.0t0.4575099723330259
+218tdishwashertpumptdishwashert1.0t0.1964541828242536
+219tdishwashert"gasket"tdishwashert1.0t0.27845064945166054
+220tdishwashert"water hose"tdishwashert1.0t0.2903387815420171
+221tdishwashert"heating element"tdishwashert1.0t0.32280936454849496
+222tdishwashertracktdishwashert1.0t0.2812071245236058
+223tdishwashert"cutlery basket"tdishwashert1.0t0.42928788097645526
+224tdishwashert"wash tower"tdishwashert1.0t0.22631718130201445
+225tdishwashert"motor"tdishwashert1.0t0.09951088345426058
+226tdishwashert"detergent dispenser"tdishwashert1.0t0.43738752652807256
+227tdishwashertslidetdishwashert1.0t0.13053833931488126
+228tdishwashert"leveling foot"tdishwashert1.0t0.04453649979849802
+229tdishwashert"insulating material"tdishwashert1.0t0.09809421194615688
+230tdishwashertspray armtdishwashert1.0t0.07819597995533284
+231tdishwashertrinse-aid dispensertdishwashert1.0t0.3619466882965366
+232tdishwashertlocktdoort0.0t0.2044524939165991
+233tdishwashertcornicetdoort0.0t0.11815597951088345
+234tdishwashert"hanging stile"tdoort0.0t0.09428326981410905
+235tdishwashert"entablature"tdoort0.0t-0.0026253625040278225
+236tdishwashert"top rail"tdoort0.0t0.12057913094358132
+237tdishwashertmiddle paneltdoort0.0t0.15547106078956432
+238tdishwashert"bottom rail"tdoort0.0t0.11923089359113992
+239tdishwashertpaneltdoort0.0t0.13284636495961066
+240tdishwashertjambtdoort0.0t0.06549073495158153
+241tdishwashertdoorknobtdoort0.0t0.26203694063677985
+242tdishwashert"threshold"tdoort0.0t-0.000508894543272703
+243tdishwashert"weatherboard"tdoort0.0t0.10473983044256045
+244tdishwashertlock railtdoort0.0t0.1451976133068145
+245tdishwashert"shutting stile"tdoort0.0t0.11398973632812563
+246tdishwashertheadertdoort0.0t-0.021774464160712895
+247tdishwashertringt"mortise lock"t0.0t0.07558039533772598
+248tdishwashertkeywayt"mortise lock"t0.0t-0.04743297147746087
+249tdishwashert"cotter pin"t"mortise lock"t0.0t0.0851600667963057
+250tdishwashertspringt"mortise lock"t0.0t0.027952535911792073
+251tdishwashert"rotor"t"mortise lock"t0.0t0.11663062922921363
+252tdishwashertcylinder caset"mortise lock"t0.0t0.13246147179413104
+253tdishwashertkeyt"mortise lock"t0.0t-0.046723196196224705
+254tdishwashert"faceplate"t"mortise lock"t0.0t0.14445449393882154
+255tdishwashert"dead bolt"t"mortise lock"t0.0t0.03985199835553728
+256tdishwashertcylindert"mortise lock"t0.0t0.09085523172479693
+257tdishwashert"stator"t"mortise lock"t0.0t0.03778308647873865
+258tdishwashert"strike plate"t"mortise lock"t0.0t0.06435716667487086
+259tdishwashert"valve seat shaft"t"toilet"t0.0t0.09800820009111212
+260tdishwashert"tank lid"t"toilet"t0.0t0.22070272351976086
+261tdishwashertconical washert"toilet"t0.0t0.4325136945966066
+262tdishwashert"lift chain"t"toilet"t0.0t0.10982344248269425
+263tdishwashert"seat"t"toilet"t0.0t0.16639340437115965
+264tdishwashert"shutoff valve"t"toilet"t0.0t0.20044758280065267
+265tdishwashert"trip lever"t"toilet"t0.0t0.11428926988077645
+266tdishwashertball-cock supply valvet"toilet"t0.0t0.15098702774331227
+267tdishwashert"toilet bowl"t"toilet"t0.0t0.4401573350815009
+268tdishwashertflush handlet"toilet"t0.0t0.2979233102590028
+269tdishwashertwax sealt"toilet"t0.0t0.21738419315770172
+270tdishwashert"tank ball"t"toilet"t0.0t0.062291803242258255
+271tdishwashert"float ball"t"toilet"t0.0t0.025871398571095234
+272tdishwashert"filler tube"t"toilet"t0.0t0.12920900556772993
+273tdishwashert"waste pipe"t"toilet"t0.0t0.19011544572717476
+274tdishwashert"seat cover"t"toilet"t0.0t0.19828798097756642
+275tdishwashert"cold-water supply line"t"toilet"t0.0t0.14348295947354425
+276tdishwashert"overflow tube"t"toilet"t0.0t0.11526396018444279
+277tdishwashert"trap"t"toilet"t0.0t0.09702287737039035
+278tdishwashert"refill tube"t"toilet"t0.0t0.13302636695963288
+279tdoortpillowtbedt0.0t0.07993999933332592
+280tdoort"bolster"tbedt0.0t0.017225082192589156
+281tdoort"mattress cover"tbedt0.0t0.14332337025966954
+282tdoortlegtbedt0.0t0.12746541628240313
+283tdoortbox springtbedt0.0t0.18991168678670842
+284tdoortheadboardtbedt0.0t0.18212113467927418
+285tdoort"mattress"tbedt0.0t0.10745897176635295
+286tdoort"pillow protector"tbedt0.0t0.17531305903398925
+287tdoort"elastic"tbedt0.0t0.05295681651538566
+288tdoort"footboard"tbedt0.0t0.1722068022978033
+289tdoort"switch"t"refrigerator"t0.0t0.2560395399992838
+290tdoort"refrigerator compartment"t"refrigerator"t0.0t0.39316836853742815
+291tdoort"egg tray"t"refrigerator"t0.0t0.1951363904043378
+292tdoortshelf channelt"refrigerator"t0.0t0.16401850731880535
+293tdoort"magnetic gasket"t"refrigerator"t0.0t0.24392226580295334
+294tdoort"storage door"t"refrigerator"t0.0t0.6844124934721496
+295tdoortfreezer doort"refrigerator"t0.0t0.6855929510327892
+296tdoortguard railt"refrigerator"t0.0t0.23403860042889366
+297tdoortcrispert"refrigerator"t0.0t0.1579813109034545
+298tdoortglass covert"refrigerator"t0.0t0.3175755286169846
+299tdoort"butter compartment"t"refrigerator"t0.0t0.17405526728074755
+300tdoort"thermostat control"t"refrigerator"t0.0t0.32924676940854897
+301tdoort"freezer compartment"t"refrigerator"t0.0t0.36193606172691717
+302tdoort"ice cube tray"t"refrigerator"t0.0t0.1909036979192778
+303tdoort"meat keeper"t"refrigerator"t0.0t0.12642273803042256
+304tdoort"door stop"t"refrigerator"t0.0t0.762174690829898
+305tdoortshelft"refrigerator"t0.0t0.2879827553639485
+306tdoort"dairy compartment"t"refrigerator"t0.0t0.19021435685000582
+307tdoortdoor shelft"refrigerator"t0.0t0.7208936455842493
+308tdoortdrain hosetdishwashert0.0t0.21378548650540558
+309tdoort"overflow protection switch"tdishwashert0.0t0.25207302303358925
+310tdoort"tub"tdishwashert0.0t0.2866991855465061
+311tdoortpumptdishwashert0.0t0.15345637173746376
+312tdoort"gasket"tdishwashert0.0t0.30888876543072696
+313tdoort"water hose"tdishwashert0.0t0.18617984644273824
+314tdoort"heating element"tdishwashert0.0t0.13006944521605796
+315tdoortracktdishwashert0.0t0.29271347459416214
+316tdoort"cutlery basket"tdishwashert0.0t0.16661696241069343
+317tdoort"wash tower"tdishwashert0.0t0.2083463149590551
+318tdoort"motor"tdishwashert0.0t0.11735108167868531
+319tdoort"detergent dispenser"tdishwashert0.0t0.08050756119512438
+320tdoortslidetdishwashert0.0t0.20828898098867765
+321tdoort"leveling foot"tdishwashert0.0t0.21631909424761459
+322tdoort"insulating material"tdishwashert0.0t0.09763087341313557
+323tdoortspray armtdishwashert0.0t0.20887787642084915
+324tdoortrinse-aid dispensertdishwashert0.0t0.1943959377326415
+325tdoortlocktdoort1.0t0.4222326914743497
+326tdoortcornicetdoort1.0t0.23654973944154933
+327tdoort"hanging stile"tdoort1.0t0.340220224669163
+328tdoort"entablature"tdoort1.0t0.1263302925588062
+329tdoort"top rail"tdoort1.0t0.1619413728976302
+330tdoortmiddle paneltdoort1.0t0.3043744930499228
+331tdoort"bottom rail"tdoort1.0t0.19178926341284613
+332tdoortpaneltdoort1.0t0.3297081078678652
+333tdoortjambtdoort1.0t0.4263414511651768
+334tdoortdoorknobtdoort1.0t0.4403529417385711
+335tdoort"threshold"tdoort1.0t0.12424538050422781
+336tdoort"weatherboard"tdoort1.0t0.1194711052345026
+337tdoortlock railtdoort1.0t0.34387048744986054
+338tdoort"shutting stile"tdoort1.0t0.2802153979967398
+339tdoortheadertdoort1.0t0.0716199068878543
+340tdoortringt"mortise lock"t0.0t0.12144801608906766
+341tdoortkeywayt"mortise lock"t0.0t0.1408691207680085
+342tdoort"cotter pin"t"mortise lock"t0.0t0.14504496106011944
+343tdoortspringt"mortise lock"t0.0t0.0782699894743268
+344tdoort"rotor"t"mortise lock"t0.0t0.13839709330103664
+345tdoortcylinder caset"mortise lock"t0.0t0.23337548194979943
+346tdoortkeyt"mortise lock"t0.0t0.16266028792771162
+347tdoort"faceplate"t"mortise lock"t0.0t0.2306821186902077
+348tdoort"dead bolt"t"mortise lock"t0.0t0.2651651685018722
+349tdoortcylindert"mortise lock"t0.0t0.2567681863131812
+350tdoort"stator"t"mortise lock"t0.0t0.06336737074856387
+351tdoort"strike plate"t"mortise lock"t0.0t0.20599120056791878
+352tdoort"valve seat shaft"t"toilet"t0.0t0.2549570550783898
+353tdoort"tank lid"t"toilet"t0.0t0.2645343313890956
+354tdoortconical washert"toilet"t0.0t0.1740517116856854
+355tdoort"lift chain"t"toilet"t0.0t0.1756810631229236
+356tdoort"seat"t"toilet"t0.0t0.3592711030122557
+357tdoort"shutoff valve"t"toilet"t0.0t0.22466074341501083
+358tdoort"trip lever"t"toilet"t0.0t0.22652651696129952
+359tdoortball-cock supply valvet"toilet"t0.0t0.2058143096939212
+360tdoort"toilet bowl"t"toilet"t0.0t0.22910787897643306
+361tdoortflush handlet"toilet"t0.0t0.2986695407726752
+362tdoortwax sealt"toilet"t0.0t0.14754697274414158
+363tdoort"tank ball"t"toilet"t0.0t0.11569106323403594
+364tdoort"float ball"t"toilet"t0.0t0.06151623906932298
+365tdoort"filler tube"t"toilet"t0.0t0.09698775508480766
+366tdoort"waste pipe"t"toilet"t0.0t0.04591295458838432
+367tdoort"seat cover"t"toilet"t0.0t0.3169541883798709
+368tdoort"cold-water supply line"t"toilet"t0.0t0.07433195353991973
+369tdoort"overflow tube"t"toilet"t0.0t0.12972278911130083
+370tdoort"trap"t"toilet"t0.0t0.21498532538924858
+371tdoort"refill tube"t"toilet"t0.0t0.06119001322236913
+372t"mortise lock"tpillowtbedt0.0t0.1164559735614818
+373t"mortise lock"t"bolster"tbedt0.0t0.173275297120034
+374t"mortise lock"t"mattress cover"tbedt0.0t0.16021424240427684
+375t"mortise lock"tlegtbedt0.0t0.2198902454349779
+376t"mortise lock"tbox springtbedt0.0t0.2274974671935171
+377t"mortise lock"theadboardtbedt0.0t0.27478375035097785
+378t"mortise lock"t"mattress"tbedt0.0t0.14567341255718624
+379t"mortise lock"t"pillow protector"tbedt0.0t0.17916667731493544
+380t"mortise lock"t"elastic"tbedt0.0t0.18528654435861383
+381t"mortise lock"t"footboard"tbedt0.0t0.2581184522181876
+382t"mortise lock"t"switch"t"refrigerator"t0.0t0.2303246103455839
+383t"mortise lock"t"refrigerator compartment"t"refrigerator"t0.0t0.1074380945830621
+384t"mortise lock"t"egg tray"t"refrigerator"t0.0t0.056865527046470535
+385t"mortise lock"tshelf channelt"refrigerator"t0.0t0.14530009117881115
+386t"mortise lock"t"magnetic gasket"t"refrigerator"t0.0t0.2558444266985679
+387t"mortise lock"t"storage door"t"refrigerator"t0.0t0.25399529483608807
+388t"mortise lock"tfreezer doort"refrigerator"t0.0t0.24884368146798244
+389t"mortise lock"tguard railt"refrigerator"t0.0t0.36488298368681915
+390t"mortise lock"tcrispert"refrigerator"t0.0t0.06531273295400356
+391t"mortise lock"tglass covert"refrigerator"t0.0t0.12287715673253743
+392t"mortise lock"t"butter compartment"t"refrigerator"t0.0t0.045230952036239794
+393t"mortise lock"t"thermostat control"t"refrigerator"t0.0t0.17889134089171557
+394t"mortise lock"t"freezer compartment"t"refrigerator"t0.0t0.14558676109440352
+395t"mortise lock"t"ice cube tray"t"refrigerator"t0.0t0.05789998953321471
+396t"mortise lock"t"meat keeper"t"refrigerator"t0.0t0.11171503146868715
+397t"mortise lock"t"door stop"t"refrigerator"t0.0t0.27422107736986995
+398t"mortise lock"tshelft"refrigerator"t0.0t0.16186292757285486
+399t"mortise lock"t"dairy compartment"t"refrigerator"t0.0t-0.0005975623279286054
+400t"mortise lock"tdoor shelft"refrigerator"t0.0t0.27754870110750146
+401t"mortise lock"tdrain hosetdishwashert0.0t0.10313604630452028
+402t"mortise lock"t"overflow protection switch"tdishwashert0.0t0.19446529344384986
+403t"mortise lock"t"tub"tdishwashert0.0t0.0523014758276735
+404t"mortise lock"tpumptdishwashert0.0t0.06600985188833827
+405t"mortise lock"t"gasket"tdishwashert0.0t0.22893745807591984
+406t"mortise lock"t"water hose"tdishwashert0.0t-0.02554050884348829
+407t"mortise lock"t"heating element"tdishwashert0.0t0.03392860297654472
+408t"mortise lock"tracktdishwashert0.0t0.12000201335592839
+409t"mortise lock"t"cutlery basket"tdishwashert0.0t0.08900322103614773
+410t"mortise lock"t"wash tower"tdishwashert0.0t0.11915778165955046
+411t"mortise lock"t"motor"tdishwashert0.0t0.05800709541295999
+412t"mortise lock"t"detergent dispenser"tdishwashert0.0t0.03236302985177965
+413t"mortise lock"tslidetdishwashert0.0t0.29523220205026923
+414t"mortise lock"t"leveling foot"tdishwashert0.0t0.2125781869972304
+415t"mortise lock"t"insulating material"tdishwashert0.0t0.036517524976394176
+416t"mortise lock"tspray armtdishwashert0.0t0.21855000817231526
+417t"mortise lock"trinse-aid dispensertdishwashert0.0t0.09703308892688745
+418t"mortise lock"tlocktdoort0.0t0.679050509344609
+419t"mortise lock"tcornicetdoort0.0t0.22649587512037775
+420t"mortise lock"t"hanging stile"tdoort0.0t0.2993766930051122
+421t"mortise lock"t"entablature"tdoort0.0t0.13740176417535435
+422t"mortise lock"t"top rail"tdoort0.0t0.23854314793345435
+423t"mortise lock"tmiddle paneltdoort0.0t0.1827962736026271
+424t"mortise lock"t"bottom rail"tdoort0.0t0.2902544006609853
+425t"mortise lock"tpaneltdoort0.0t0.16810255315087527
+426t"mortise lock"tjambtdoort0.0t0.5014179049584784
+427t"mortise lock"tdoorknobtdoort0.0t0.35804672452954467
+428t"mortise lock"t"threshold"tdoort0.0t0.0695703362893299
+429t"mortise lock"t"weatherboard"tdoort0.0t0.11254526300795223
+430t"mortise lock"tlock railtdoort0.0t0.5804205136079896
+431t"mortise lock"t"shutting stile"tdoort0.0t0.2930695762407077
+432t"mortise lock"theadertdoort0.0t0.16003757375499536
+433t"mortise lock"tringt"mortise lock"t1.0t0.2144744068794563
+434t"mortise lock"tkeywayt"mortise lock"t1.0t0.4349017694531932
+435t"mortise lock"t"cotter pin"t"mortise lock"t1.0t0.4040730239387158
+436t"mortise lock"tspringt"mortise lock"t1.0t0.22111606153758634
+437t"mortise lock"t"rotor"t"mortise lock"t1.0t0.18796322047614208
+438t"mortise lock"tcylinder caset"mortise lock"t1.0t0.2946930848890656
+439t"mortise lock"tkeyt"mortise lock"t1.0t0.2290201765642443
+440t"mortise lock"t"faceplate"t"mortise lock"t1.0t0.24415073991386052
+441t"mortise lock"t"dead bolt"t"mortise lock"t1.0t0.3906912733131807
+442t"mortise lock"tcylindert"mortise lock"t1.0t0.2787300168590798
+443t"mortise lock"t"stator"t"mortise lock"t1.0t0.1270518702487669
+444t"mortise lock"t"strike plate"t"mortise lock"t1.0t0.21278485600614586
+445t"mortise lock"t"valve seat shaft"t"toilet"t0.0t0.31758911961123315
+446t"mortise lock"t"tank lid"t"toilet"t0.0t0.11642311017559495
+447t"mortise lock"tconical washert"toilet"t0.0t0.16559785837596724
+448t"mortise lock"t"lift chain"t"toilet"t0.0t0.23554397666018395
+449t"mortise lock"t"seat"t"toilet"t0.0t0.22071825472708217
+450t"mortise lock"t"shutoff valve"t"toilet"t0.0t0.24163896079711125
+451t"mortise lock"t"trip lever"t"toilet"t0.0t0.32720700532306174
+452t"mortise lock"tball-cock supply valvet"toilet"t0.0t0.17015815068126325
+453t"mortise lock"t"toilet bowl"t"toilet"t0.0t0.05773131454030797
+454t"mortise lock"tflush handlet"toilet"t0.0t0.34675944696712924
+455t"mortise lock"twax sealt"toilet"t0.0t0.2124406062779162
+456t"mortise lock"t"tank ball"t"toilet"t0.0t0.08605007678419554
+457t"mortise lock"t"float ball"t"toilet"t0.0t0.18182292934620822
+458t"mortise lock"t"filler tube"t"toilet"t0.0t0.08293516215405997
+459t"mortise lock"t"waste pipe"t"toilet"t0.0t0.047465643781113835
+460t"mortise lock"t"seat cover"t"toilet"t0.0t0.20355628435385897
+461t"mortise lock"t"cold-water supply line"t"toilet"t0.0t0.09545664800386108
+462t"mortise lock"t"overflow tube"t"toilet"t0.0t0.061150026366965496
+463t"mortise lock"t"trap"t"toilet"t0.0t0.19580401864599237
+464t"mortise lock"t"refill tube"t"toilet"t0.0t-0.017556419244260515
+465t"toilet"tpillowtbedt0.0t0.21884643162701803
+466t"toilet"t"bolster"tbedt0.0t-0.0013700153746169902
+467t"toilet"t"mattress cover"tbedt0.0t0.17840776008622317
+468t"toilet"tlegtbedt0.0t0.11384126490294334
+469t"toilet"tbox springtbedt0.0t0.058650213741287906
+470t"toilet"theadboardtbedt0.0t0.09415349059433992
+471t"toilet"t"mattress"tbedt0.0t0.24780853120590227
+472t"toilet"t"pillow protector"tbedt0.0t0.1521256902854476
+473t"toilet"t"elastic"tbedt0.0t-0.008561429411596783
+474t"toilet"t"footboard"tbedt0.0t0.07419949110545672
+475t"toilet"t"switch"t"refrigerator"t0.0t0.07171280477703183
+476t"toilet"t"refrigerator compartment"t"refrigerator"t0.0t0.37381704241158226
+477t"toilet"t"egg tray"t"refrigerator"t0.0t0.21456771741908243
+478t"toilet"tshelf channelt"refrigerator"t0.0t0.08594518671820703
+479t"toilet"t"magnetic gasket"t"refrigerator"t0.0t0.07861820686896522
+480t"toilet"t"storage door"t"refrigerator"t0.0t0.3108643429371437
+481t"toilet"tfreezer doort"refrigerator"t0.0t0.3350650562784031
+482t"toilet"tguard railt"refrigerator"t0.0t0.1834153712819031
+483t"toilet"tcrispert"refrigerator"t0.0t0.07284480938677096
+484t"toilet"tglass covert"refrigerator"t0.0t0.13302236691518793
+485t"toilet"t"butter compartment"t"refrigerator"t0.0t0.2392244358270647
+486t"toilet"t"thermostat control"t"refrigerator"t0.0t0.1845958288425427
+487t"toilet"t"freezer compartment"t"refrigerator"t0.0t0.3061987695639714
+488t"toilet"t"ice cube tray"t"refrigerator"t0.0t0.18015513285204754
+489t"toilet"t"meat keeper"t"refrigerator"t0.0t0.10275269725219167
+490t"toilet"t"door stop"t"refrigerator"t0.0t0.2987930977010856
+491t"toilet"tshelft"refrigerator"t0.0t0.19877020855787284
+492t"toilet"t"dairy compartment"t"refrigerator"t0.0t0.23878090187456696
+493t"toilet"tdoor shelft"refrigerator"t0.0t0.2782306779220539
+494t"toilet"tdrain hosetdishwashert0.0t0.40490272114134596
+495t"toilet"t"overflow protection switch"tdishwashert0.0t0.1565826286958744
+496t"toilet"t"tub"tdishwashert0.0t0.5289200991122123
+497t"toilet"tpumptdishwashert0.0t0.2689612106801187
+498t"toilet"t"gasket"tdishwashert0.0t0.1761330681452016
+499t"toilet"t"water hose"tdishwashert0.0t0.4089605440060445
+500t"toilet"t"heating element"tdishwashert0.0t0.20876498627762533
+501t"toilet"tracktdishwashert0.0t0.16013689040989343
+502t"toilet"t"cutlery basket"tdishwashert0.0t0.18180690896565516
+503t"toilet"t"wash tower"tdishwashert0.0t0.29186724296936634
+504t"toilet"t"motor"tdishwashert0.0t0.08461516239069324
+505t"toilet"t"detergent dispenser"tdishwashert0.0t0.45010722341359344
+506t"toilet"tslidetdishwashert0.0t0.1244902721141346
+507t"toilet"t"leveling foot"tdishwashert0.0t0.11818354850426727
+508t"toilet"t"insulating material"tdishwashert0.0t0.05272748060839382
+509t"toilet"tspray armtdishwashert0.0t0.16081245347170522
+510t"toilet"trinse-aid dispensertdishwashert0.0t0.43624751386126515
+511t"toilet"tlocktdoort0.0t0.18313403482260915
+512t"toilet"tcornicetdoort0.0t0.09432149246102733
+513t"toilet"t"hanging stile"tdoort0.0t0.225755397282192
+514t"toilet"t"entablature"tdoort0.0t-0.0030555895065500728
+515t"toilet"t"top rail"tdoort0.0t0.1545092894931386
+516t"toilet"tmiddle paneltdoort0.0t0.027142079356437292
+517t"toilet"t"bottom rail"tdoort0.0t0.16894522927424066
+518t"toilet"tpaneltdoort0.0t0.06866920743563817
+519t"toilet"tjambtdoort0.0t0.13648486499681914
+520t"toilet"tdoorknobtdoort0.0t0.3578595715351939
+521t"toilet"t"threshold"tdoort0.0t0.010422782475360836
+522t"toilet"t"weatherboard"tdoort0.0t0.048355648396093284
+523t"toilet"tlock railtdoort0.0t0.16574895276614182
+524t"toilet"t"shutting stile"tdoort0.0t0.16684322422321196
+525t"toilet"theadertdoort0.0t-0.04180224224713608
+526t"toilet"tringt"mortise lock"t0.0t0.031954577273080806
+527t"toilet"tkeywayt"mortise lock"t0.0t0.037112412360137334
+528t"toilet"t"cotter pin"t"mortise lock"t0.0t0.027074526058570376
+529t"toilet"tspringt"mortise lock"t0.0t0.030981014342494482
+530t"toilet"t"rotor"t"mortise lock"t0.0t-0.0008364537383748708
+531t"toilet"tcylinder caset"mortise lock"t0.0t0.11134079267547416
+532t"toilet"tkeyt"mortise lock"t0.0t-0.03556595863642098
+533t"toilet"t"faceplate"t"mortise lock"t0.0t-0.0166299625551395
+534t"toilet"t"dead bolt"t"mortise lock"t0.0t0.14533005922288025
+535t"toilet"tcylindert"mortise lock"t0.0t0.1645831620351337
+536t"toilet"t"stator"t"mortise lock"t0.0t-0.050762341803797816
+537t"toilet"t"strike plate"t"mortise lock"t0.0t0.0861674114342844
+538t"toilet"t"valve seat shaft"t"toilet"t1.0t0.16394226602517803
+539t"toilet"t"tank lid"t"toilet"t1.0t0.2198104911855722
+540t"toilet"tconical washert"toilet"t1.0t0.16745786064289603
+541t"toilet"t"lift chain"t"toilet"t1.0t0.11227502527805863
+542t"toilet"t"seat"t"toilet"t1.0t0.29013922376915297
+543t"toilet"t"shutoff valve"t"toilet"t1.0t0.23072036697300854
+544t"toilet"t"trip lever"t"toilet"t1.0t0.1970933010366782
+545t"toilet"tball-cock supply valvet"toilet"t1.0t0.23327150671357677
+546t"toilet"t"toilet bowl"t"toilet"t1.0t0.6997459971777463
+547t"toilet"tflush handlet"toilet"t1.0t0.34421982466471845
+548t"toilet"twax sealt"toilet"t1.0t0.19244436049289435
+549t"toilet"t"tank ball"t"toilet"t1.0t0.14663185146501628
+550t"toilet"t"float ball"t"toilet"t1.0t0.07611906798964432
+551t"toilet"t"filler tube"t"toilet"t1.0t0.21589308946689423
+552t"toilet"t"waste pipe"t"toilet"t1.0t0.33697574417493525
+553t"toilet"t"seat cover"t"toilet"t1.0t0.26141268236313736
+554t"toilet"t"cold-water supply line"t"toilet"t1.0t0.25379732081408657
+555t"toilet"t"overflow tube"t"toilet"t1.0t0.26520808733520396
+556t"toilet"t"trap"t"toilet"t1.0t0.16364341018087494
+557t"toilet"t"refill tube"t"toilet"t1.0t0.31044433827042517
